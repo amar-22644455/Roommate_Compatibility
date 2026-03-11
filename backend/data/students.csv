@@ -1,0 +1,1001 @@
+student_id,gender,year_of_study,department,sleep_time,wake_up_time,alarm_usage,morning_productivity,night_productivity,cleanliness_score,room_organization_level,noise_tolerance,study_noise_preference,fan_or_cooler_preference,study_habit,daily_study_hours,food_preference,exam_preparation_style,introvert_extrovert_score,social_frequency,relationship_status,smoking_drinking,workout,gaming,anime,room_stay_duration,career_interest,cult_sports,language
+1001,male,2,Metallurgy,23,6,1,10,5,3,2,3,silence,cooler,regular,2,non_veg,group_study,0,high,single,0,1,0,0,8,mechanical,both,English
+1002,female,3,AI,23,7,1,10,0,10,10,8,light_music,fan,night_before,2,non_veg,last_minute,1,medium,committed,0,0,0,0,9,software,cultural,English
+1003,male,1,Metallurgy,3,7,0,10,6,5,5,5,cafe_noise,fan,exam_crammer,1,veg,early_planner,7,medium,committed,0,0,1,1,19,management,both,English
+1004,male,1,ECE,23,9,0,1,2,8,8,4,silence,fan,regular,5,non_veg,last_minute,6,low,single,0,0,0,0,16,civil,none,Hindi
+1005,male,1,CSE,22,10,1,3,2,2,4,2,cafe_noise,fan,regular,4,veg,early_planner,9,high,single,0,0,0,0,10,ai_ml,none,Tamil
+1006,female,1,Civil,2,6,1,8,10,8,9,4,cafe_noise,cooler,night_before,2,veg,group_study,8,medium,single,0,1,1,1,17,robotics,both,English
+1007,male,4,ECE,22,9,1,5,0,3,2,4,light_music,fan,regular,6,non_veg,group_study,4,medium,committed,0,0,0,0,12,electronics,sports,Multilingual
+1008,male,1,EEE,0,7,0,6,6,4,6,3,light_music,cooler,exam_crammer,5,non_veg,last_minute,1,medium,committed,0,1,0,0,15,electronics,cultural,Telugu
+1009,male,4,EEE,23,10,1,1,2,6,8,5,silence,cooler,regular,2,veg,last_minute,6,high,committed,0,0,0,0,8,electronics,sports,Dont Care
+1010,female,4,Metallurgy,3,5,1,9,6,5,3,2,cafe_noise,cooler,regular,4,non_veg,early_planner,7,low,single,0,1,1,0,11,robotics,both,Dont Care
+1011,male,1,Others,23,8,0,3,6,9,10,9,light_music,fan,exam_crammer,5,non_veg,early_planner,6,high,single,0,0,0,0,15,ai_ml,both,Hindi
+1012,male,1,MNC,2,9,1,5,10,7,9,0,silence,cooler,regular,7,veg,last_minute,6,medium,committed,0,0,0,1,14,civil,sports,Dont Care
+1013,male,2,Others,0,6,0,6,9,7,6,6,silence,cooler,regular,4,veg,last_minute,4,high,single,0,1,1,0,20,mechanical,cultural,Telugu
+1014,male,3,Others,0,8,0,3,7,7,5,6,light_music,cooler,regular,6,veg,group_study,1,medium,single,0,0,0,0,14,civil,cultural,Tamil
+1015,female,1,Civil,0,6,0,6,6,2,1,3,cafe_noise,cooler,regular,7,veg,group_study,5,high,committed,0,1,1,0,13,electronics,cultural,Dont Care
+1016,male,2,CSE,23,9,1,4,6,9,9,8,silence,cooler,exam_crammer,6,veg,group_study,3,medium,committed,1,0,0,0,17,mechanical,cultural,Dont Care
+1017,female,2,Civil,4,10,1,5,6,5,3,1,light_music,fan,regular,8,veg,last_minute,9,medium,single,0,0,1,1,17,software,cultural,Multilingual
+1018,female,3,ECE,1,10,0,4,10,6,4,0,silence,cooler,exam_crammer,4,non_veg,last_minute,1,low,committed,0,0,0,0,12,civil,none,Tamil
+1019,female,4,EEE,0,8,1,2,6,8,10,2,light_music,fan,regular,6,non_veg,last_minute,8,high,single,0,0,0,0,12,software,none,English
+1020,male,1,Civil,23,8,1,3,5,9,9,6,silence,cooler,regular,4,non_veg,group_study,6,medium,single,0,0,0,0,11,software,both,Telugu
+1021,female,3,ECE,23,8,1,2,0,9,10,8,cafe_noise,cooler,regular,2,non_veg,last_minute,5,high,committed,0,0,0,0,8,management,none,Dont Care
+1022,male,1,Civil,1,9,1,0,6,3,4,1,silence,fan,regular,6,non_veg,early_planner,4,high,committed,1,0,1,0,16,civil,cultural,Multilingual
+1023,female,2,Others,2,9,1,2,6,4,3,5,light_music,fan,exam_crammer,5,non_veg,last_minute,2,medium,single,0,0,1,1,16,electronics,cultural,Telugu
+1024,female,2,AI,0,7,1,8,10,7,6,2,light_music,cooler,exam_crammer,1,non_veg,last_minute,9,high,single,0,1,0,1,9,robotics,cultural,Hindi
+1025,female,4,Metallurgy,22,7,1,8,10,0,2,4,light_music,cooler,exam_crammer,1,non_veg,last_minute,9,high,committed,1,1,0,0,13,electronics,both,Multilingual
+1026,female,2,MNC,4,8,1,3,9,5,4,8,cafe_noise,cooler,night_before,4,non_veg,last_minute,3,low,single,0,0,1,0,15,software,both,Hindi
+1027,female,2,Civil,4,7,1,7,8,3,2,2,light_music,cooler,regular,9,veg,last_minute,2,medium,single,0,0,1,1,18,software,sports,Dont Care
+1028,female,3,MNC,0,8,1,2,7,4,5,0,light_music,cooler,regular,6,veg,early_planner,10,high,single,0,0,0,1,12,electronics,none,Multilingual
+1029,female,1,ME,22,7,1,9,6,10,10,4,cafe_noise,fan,exam_crammer,4,non_veg,early_planner,7,medium,single,0,0,0,0,11,robotics,none,English
+1030,female,1,Civil,0,5,1,9,8,4,2,0,light_music,cooler,night_before,0,non_veg,last_minute,2,medium,single,0,1,0,0,12,robotics,sports,Telugu
+1031,male,3,AI,0,7,1,8,7,1,3,7,light_music,cooler,regular,6,veg,group_study,6,high,committed,0,1,1,0,12,management,sports,Telugu
+1032,male,4,MNC,0,10,1,4,10,7,9,6,cafe_noise,fan,exam_crammer,1,veg,last_minute,6,low,single,0,0,0,1,10,mechanical,none,Tamil
+1033,female,1,Civil,2,6,1,9,9,1,2,10,silence,fan,regular,3,veg,last_minute,6,low,single,1,1,0,1,9,ai_ml,cultural,Multilingual
+1034,female,2,CSE,22,9,1,0,3,3,4,1,light_music,cooler,regular,2,non_veg,last_minute,6,medium,committed,0,0,0,0,8,software,none,Multilingual
+1035,female,1,Metallurgy,1,6,1,6,9,4,2,10,silence,fan,exam_crammer,0,veg,group_study,1,high,committed,0,1,1,0,15,robotics,cultural,Hindi
+1036,male,2,AI,4,9,1,3,9,0,0,8,cafe_noise,fan,exam_crammer,4,veg,group_study,9,high,committed,0,0,0,1,10,civil,both,Multilingual
+1037,female,4,MNC,1,10,1,4,9,5,7,4,light_music,fan,regular,2,veg,group_study,2,medium,single,0,0,0,1,8,management,none,Telugu
+1038,male,3,AI,3,10,1,4,6,1,2,6,light_music,cooler,regular,7,non_veg,early_planner,9,medium,single,0,0,0,1,14,software,none,Multilingual
+1039,male,1,ECE,0,10,0,0,8,4,6,3,cafe_noise,cooler,exam_crammer,1,veg,group_study,8,medium,committed,0,0,0,1,17,ai_ml,both,Tamil
+1040,male,3,Metallurgy,23,8,1,0,1,5,4,0,light_music,cooler,regular,2,non_veg,early_planner,2,low,committed,1,0,0,0,15,civil,both,Tamil
+1041,male,1,Civil,0,5,0,6,9,10,10,7,silence,fan,regular,4,veg,early_planner,1,medium,committed,0,1,0,0,12,software,both,Telugu
+1042,male,2,Civil,22,9,1,4,6,7,7,0,silence,cooler,exam_crammer,2,veg,group_study,8,high,committed,0,0,0,0,14,management,both,Telugu
+1043,female,3,Civil,22,9,1,2,0,8,8,2,cafe_noise,cooler,regular,7,non_veg,group_study,9,high,committed,0,0,0,0,15,management,both,Telugu
+1044,female,1,Metallurgy,0,8,1,5,6,5,7,5,light_music,fan,regular,5,veg,group_study,8,high,single,0,0,0,0,13,robotics,sports,Multilingual
+1045,female,2,CSE,1,8,1,5,6,4,3,7,light_music,cooler,night_before,4,veg,early_planner,3,low,committed,0,0,1,1,17,mechanical,sports,Multilingual
+1046,female,3,ME,0,8,1,0,7,3,3,7,cafe_noise,fan,exam_crammer,3,veg,last_minute,8,high,single,1,0,1,0,13,electronics,both,English
+1047,female,3,EEE,1,10,1,5,9,1,2,1,silence,fan,night_before,2,non_veg,group_study,2,medium,single,0,0,0,1,8,management,both,Dont Care
+1048,male,1,Others,4,10,1,1,8,1,3,8,silence,fan,night_before,3,non_veg,group_study,6,medium,committed,0,0,1,0,16,civil,both,Dont Care
+1049,female,1,MNC,1,8,1,2,8,6,5,3,cafe_noise,fan,night_before,4,non_veg,group_study,6,high,committed,0,0,0,1,14,electronics,both,Hindi
+1050,female,1,CSE,0,10,0,3,6,4,5,3,light_music,cooler,regular,3,veg,early_planner,10,medium,committed,0,0,0,0,11,robotics,cultural,Multilingual
+1051,male,2,MNC,0,6,1,10,9,6,8,1,silence,cooler,regular,10,non_veg,early_planner,7,high,committed,0,1,0,0,17,robotics,cultural,English
+1052,female,1,Civil,23,5,0,9,4,10,9,0,light_music,cooler,night_before,3,veg,last_minute,9,high,committed,0,1,0,0,11,civil,both,English
+1053,male,3,AI,0,8,1,0,6,0,1,9,silence,fan,night_before,3,veg,group_study,3,medium,single,0,0,1,0,20,ai_ml,both,Tamil
+1054,female,3,MNC,3,10,1,1,10,0,0,6,light_music,cooler,night_before,1,veg,early_planner,2,low,committed,0,0,1,1,20,management,none,Multilingual
+1055,male,1,Civil,3,10,1,4,8,4,6,10,silence,cooler,regular,7,veg,last_minute,2,medium,committed,0,0,1,1,14,civil,both,English
+1056,female,1,MNC,1,9,1,5,8,1,3,9,light_music,fan,night_before,4,veg,group_study,4,medium,single,0,0,0,0,17,software,both,Tamil
+1057,female,4,AI,0,7,1,8,7,7,7,2,cafe_noise,fan,night_before,4,veg,early_planner,10,medium,committed,0,0,0,0,10,ai_ml,sports,Hindi
+1058,male,3,Civil,1,10,1,3,6,2,0,3,silence,cooler,exam_crammer,2,veg,group_study,0,high,committed,0,0,0,0,11,electronics,cultural,Tamil
+1059,male,2,ME,22,9,1,3,6,0,1,10,cafe_noise,fan,exam_crammer,4,veg,group_study,9,medium,committed,0,0,0,0,10,software,both,Hindi
+1060,male,4,CSE,1,8,0,4,10,1,1,8,silence,cooler,regular,3,non_veg,early_planner,2,medium,single,1,0,0,1,9,ai_ml,cultural,Dont Care
+1061,male,1,ECE,1,8,1,3,6,9,10,5,silence,fan,exam_crammer,3,non_veg,early_planner,5,high,committed,1,0,0,1,17,electronics,cultural,Dont Care
+1062,male,1,Others,22,7,0,7,9,9,10,0,silence,fan,exam_crammer,0,veg,early_planner,2,low,committed,0,1,0,0,10,software,none,Telugu
+1063,male,3,Metallurgy,3,5,0,7,7,6,7,8,light_music,cooler,exam_crammer,2,non_veg,group_study,4,high,committed,0,1,0,1,11,mechanical,cultural,Telugu
+1064,male,1,Others,1,9,0,3,10,5,3,8,silence,fan,regular,6,non_veg,group_study,8,high,committed,0,0,1,0,17,management,cultural,Tamil
+1065,male,2,Others,4,8,1,2,8,7,9,4,cafe_noise,fan,exam_crammer,1,non_veg,last_minute,1,low,single,0,0,1,1,16,civil,both,Telugu
+1066,female,3,Civil,4,5,1,9,9,6,5,7,light_music,fan,regular,5,veg,group_study,10,high,committed,0,1,1,0,12,civil,sports,Multilingual
+1067,female,1,ME,3,7,1,7,6,9,7,6,light_music,cooler,night_before,2,non_veg,early_planner,1,low,single,0,1,0,1,10,civil,both,Tamil
+1068,male,3,ECE,4,9,1,4,9,7,5,10,silence,cooler,exam_crammer,5,veg,group_study,5,high,committed,0,0,0,1,13,mechanical,both,English
+1069,female,1,CSE,22,8,1,2,3,2,1,7,light_music,cooler,regular,5,non_veg,last_minute,5,low,committed,0,0,0,0,14,management,sports,Multilingual
+1070,female,1,CSE,1,8,1,0,7,5,4,8,silence,fan,exam_crammer,1,non_veg,last_minute,10,medium,committed,0,0,1,1,12,ai_ml,sports,Tamil
+1071,female,1,AI,1,7,1,7,6,6,4,1,cafe_noise,fan,night_before,4,non_veg,early_planner,10,medium,single,0,0,0,0,13,management,none,Dont Care
+1072,female,2,Metallurgy,0,9,1,1,7,9,10,9,light_music,fan,regular,6,veg,early_planner,7,low,committed,0,0,0,0,15,robotics,sports,Hindi
+1073,male,2,MNC,1,9,1,0,7,10,10,4,light_music,fan,regular,4,veg,last_minute,10,medium,committed,0,0,1,0,21,software,both,Telugu
+1074,female,3,ME,4,9,1,0,6,0,0,7,cafe_noise,cooler,regular,6,veg,last_minute,1,medium,single,0,0,0,1,12,ai_ml,sports,Telugu
+1075,male,1,MNC,4,9,1,2,7,0,0,2,cafe_noise,cooler,night_before,2,veg,last_minute,8,high,committed,0,0,0,1,14,robotics,sports,Telugu
+1076,female,1,ECE,0,7,0,9,10,6,7,10,silence,fan,night_before,0,veg,early_planner,1,low,committed,0,1,0,1,16,civil,sports,Tamil
+1077,female,2,Others,1,9,1,5,6,10,9,10,light_music,cooler,night_before,0,veg,last_minute,0,low,committed,0,0,0,1,8,civil,cultural,Multilingual
+1078,female,1,CSE,23,7,1,6,4,2,0,5,cafe_noise,cooler,regular,10,veg,last_minute,9,high,committed,0,0,0,0,17,civil,none,Hindi
+1079,male,2,ECE,3,7,0,9,8,2,4,5,light_music,cooler,night_before,0,veg,early_planner,1,medium,single,0,0,0,1,12,robotics,cultural,Telugu
+1080,female,1,Others,0,8,1,1,10,4,5,6,cafe_noise,fan,exam_crammer,3,veg,group_study,6,high,single,0,0,0,0,11,software,cultural,Multilingual
+1081,male,3,CSE,1,7,1,9,8,10,10,10,light_music,cooler,night_before,1,non_veg,group_study,7,high,single,1,1,0,0,8,software,none,English
+1082,female,1,Others,0,10,1,1,10,5,7,2,cafe_noise,cooler,regular,6,non_veg,last_minute,4,low,committed,0,0,1,0,14,robotics,cultural,Dont Care
+1083,male,1,Metallurgy,1,10,1,4,7,1,0,7,light_music,cooler,exam_crammer,3,veg,group_study,5,medium,committed,0,0,0,1,16,electronics,sports,English
+1084,female,4,ME,2,10,1,2,6,2,3,7,silence,cooler,night_before,1,non_veg,group_study,0,high,committed,0,0,0,1,16,civil,none,Hindi
+1085,male,2,ECE,22,8,1,5,8,5,7,8,light_music,cooler,exam_crammer,1,non_veg,group_study,5,high,committed,0,0,0,0,8,ai_ml,cultural,Telugu
+1086,male,1,ECE,3,5,1,10,7,2,3,7,silence,fan,exam_crammer,1,veg,group_study,7,high,single,1,1,1,0,19,software,both,English
+1087,female,1,EEE,2,9,1,2,9,4,4,2,silence,cooler,regular,9,veg,last_minute,2,medium,committed,0,0,0,1,15,management,cultural,Dont Care
+1088,male,4,Civil,22,8,0,2,8,8,10,5,silence,cooler,exam_crammer,2,non_veg,group_study,10,high,single,0,0,0,0,8,robotics,both,Multilingual
+1089,female,4,Metallurgy,1,10,1,5,10,2,4,8,light_music,fan,exam_crammer,1,veg,group_study,0,high,committed,1,0,1,1,11,electronics,sports,Multilingual
+1090,female,2,Metallurgy,1,10,0,1,9,10,10,0,light_music,cooler,regular,9,non_veg,early_planner,10,high,committed,0,0,1,1,19,mechanical,both,English
+1091,female,4,MNC,22,5,1,10,0,5,5,2,silence,fan,regular,3,veg,last_minute,3,medium,single,0,1,0,0,9,robotics,cultural,Telugu
+1092,female,3,Others,2,6,1,6,10,10,10,1,cafe_noise,fan,regular,6,non_veg,early_planner,0,medium,committed,1,1,1,0,13,management,cultural,Dont Care
+1093,female,4,Civil,2,7,1,6,7,4,2,7,light_music,fan,exam_crammer,1,veg,early_planner,7,high,single,0,0,0,1,11,electronics,cultural,Hindi
+1094,female,3,ME,0,10,1,2,7,4,5,5,light_music,fan,exam_crammer,4,non_veg,last_minute,4,medium,single,0,0,0,1,12,mechanical,none,Telugu
+1095,female,2,ME,0,6,1,6,6,10,10,9,light_music,cooler,exam_crammer,5,non_veg,group_study,0,high,committed,0,1,0,0,14,electronics,none,Tamil
+1096,female,2,Metallurgy,4,7,0,9,8,5,7,10,light_music,cooler,regular,5,non_veg,early_planner,7,high,single,0,1,0,1,17,software,cultural,English
+1097,female,2,ME,0,9,1,5,10,5,5,10,silence,fan,night_before,1,non_veg,last_minute,8,medium,single,0,0,1,0,21,robotics,cultural,Tamil
+1098,female,2,EEE,23,10,1,1,8,0,2,7,cafe_noise,cooler,exam_crammer,1,veg,group_study,9,medium,committed,0,0,0,0,16,management,sports,English
+1099,female,2,ECE,1,7,1,8,6,10,9,1,cafe_noise,fan,night_before,5,non_veg,last_minute,1,medium,single,0,0,0,1,15,mechanical,none,Hindi
+1100,male,3,AI,4,7,0,9,8,8,10,10,cafe_noise,cooler,regular,5,veg,early_planner,8,high,single,0,1,1,1,13,electronics,none,Telugu
+1101,male,3,MNC,1,7,1,10,7,4,3,5,cafe_noise,cooler,exam_crammer,1,non_veg,group_study,7,high,committed,0,0,1,0,22,mechanical,none,Dont Care
+1102,female,2,Others,0,9,1,2,9,0,0,6,silence,fan,night_before,5,veg,group_study,6,high,single,0,0,0,1,16,ai_ml,both,Telugu
+1103,female,4,Others,22,5,1,9,6,7,8,7,light_music,cooler,exam_crammer,5,non_veg,last_minute,2,low,committed,1,1,0,0,17,management,cultural,English
+1104,female,1,CSE,0,9,1,0,8,6,7,8,light_music,fan,exam_crammer,2,veg,group_study,1,high,single,0,0,0,0,10,robotics,sports,Multilingual
+1105,female,2,AI,4,10,0,4,8,6,6,4,silence,cooler,exam_crammer,4,non_veg,early_planner,6,medium,committed,0,0,1,0,16,software,sports,Tamil
+1106,female,4,Metallurgy,1,10,0,4,9,4,6,10,light_music,cooler,night_before,5,non_veg,early_planner,4,low,committed,0,0,1,1,15,mechanical,cultural,Dont Care
+1107,female,1,EEE,0,10,1,0,7,0,0,2,silence,cooler,regular,9,veg,early_planner,5,medium,committed,0,0,1,0,15,civil,cultural,Dont Care
+1108,female,2,ECE,23,9,1,0,7,8,7,1,cafe_noise,fan,exam_crammer,5,non_veg,last_minute,3,medium,committed,0,0,0,0,11,electronics,sports,Telugu
+1109,female,2,ECE,22,8,0,0,3,10,10,7,silence,fan,regular,4,non_veg,group_study,1,high,committed,0,0,0,0,10,civil,both,Telugu
+1110,male,3,EEE,2,10,1,0,9,8,6,0,light_music,fan,regular,2,non_veg,group_study,8,medium,single,0,0,0,1,11,mechanical,sports,English
+1111,female,1,Civil,0,7,0,7,7,7,5,9,light_music,cooler,night_before,3,non_veg,group_study,2,medium,committed,0,0,0,0,14,management,both,Multilingual
+1112,male,1,CSE,3,7,1,10,7,4,3,5,light_music,fan,night_before,2,veg,early_planner,6,low,committed,0,1,0,1,9,civil,both,Tamil
+1113,female,4,Others,2,5,1,9,7,2,1,1,cafe_noise,fan,regular,4,non_veg,group_study,7,medium,single,0,1,1,0,18,electronics,none,Multilingual
+1114,female,3,AI,22,7,1,8,6,7,8,2,silence,fan,exam_crammer,3,veg,early_planner,1,medium,committed,1,0,0,0,13,mechanical,cultural,Dont Care
+1115,male,3,ME,23,8,1,2,5,0,2,7,silence,cooler,night_before,6,veg,group_study,5,high,single,0,0,0,0,17,software,none,Multilingual
+1116,female,3,CSE,1,8,0,0,8,2,2,0,light_music,cooler,exam_crammer,3,veg,early_planner,10,high,single,1,0,1,1,20,software,both,English
+1117,male,3,AI,3,10,1,4,7,10,10,5,silence,cooler,exam_crammer,0,veg,group_study,7,medium,committed,1,0,0,1,16,robotics,sports,Multilingual
+1118,female,1,MNC,4,9,1,2,6,6,6,2,light_music,cooler,exam_crammer,3,non_veg,last_minute,6,high,single,0,0,1,0,18,software,none,Tamil
+1119,female,1,MNC,23,8,1,5,0,3,1,5,silence,fan,regular,4,non_veg,last_minute,10,medium,single,1,0,0,0,16,mechanical,sports,Dont Care
+1120,male,2,CSE,22,9,1,2,10,6,5,2,cafe_noise,cooler,exam_crammer,3,veg,early_planner,2,medium,single,0,0,0,0,9,management,both,Hindi
+1121,female,2,Metallurgy,23,8,1,1,3,10,9,10,cafe_noise,fan,regular,4,non_veg,early_planner,0,medium,committed,0,0,0,0,15,mechanical,sports,Dont Care
+1122,male,3,AI,22,10,0,1,1,4,2,10,silence,cooler,regular,5,non_veg,group_study,5,medium,single,0,0,0,0,11,software,none,Hindi
+1123,female,3,AI,1,8,1,0,7,5,3,7,cafe_noise,fan,exam_crammer,3,veg,group_study,7,medium,committed,0,0,1,0,17,ai_ml,both,Tamil
+1124,male,3,EEE,23,10,0,4,10,6,6,4,cafe_noise,fan,exam_crammer,2,veg,last_minute,5,medium,committed,1,0,0,0,8,mechanical,cultural,Dont Care
+1125,male,2,Metallurgy,22,9,1,0,6,9,7,3,cafe_noise,cooler,exam_crammer,1,veg,group_study,4,medium,single,0,0,0,0,14,robotics,none,Dont Care
+1126,female,4,Others,23,8,1,4,6,6,6,8,light_music,fan,exam_crammer,0,non_veg,early_planner,10,medium,committed,0,0,0,0,15,ai_ml,none,Dont Care
+1127,female,4,Others,2,5,0,10,9,6,8,4,silence,fan,regular,7,veg,early_planner,7,high,single,0,1,0,1,17,software,cultural,Dont Care
+1128,male,2,ME,0,5,1,6,6,6,5,3,silence,fan,exam_crammer,4,veg,early_planner,1,low,single,0,1,1,0,17,management,both,English
+1129,female,2,ECE,0,10,1,4,6,10,9,7,light_music,fan,exam_crammer,3,non_veg,early_planner,0,medium,committed,0,0,0,0,9,electronics,cultural,Telugu
+1130,female,2,MNC,0,7,1,6,6,6,5,7,light_music,cooler,regular,7,non_veg,early_planner,0,medium,committed,0,0,1,1,13,mechanical,none,Dont Care
+1131,female,2,Others,1,9,1,0,7,2,4,7,cafe_noise,cooler,night_before,4,non_veg,last_minute,3,medium,committed,0,0,1,0,13,electronics,both,English
+1132,male,2,Metallurgy,0,9,1,4,9,2,4,3,silence,fan,night_before,0,non_veg,last_minute,5,low,single,0,0,0,0,14,civil,sports,Tamil
+1133,male,2,AI,1,7,1,6,7,6,7,0,light_music,cooler,regular,4,non_veg,early_planner,8,high,single,0,0,1,0,10,robotics,none,Dont Care
+1134,male,3,Others,1,5,1,6,9,1,1,1,cafe_noise,fan,night_before,4,non_veg,group_study,0,high,single,0,1,0,0,12,ai_ml,sports,Multilingual
+1135,male,3,AI,22,10,1,3,3,1,1,3,silence,fan,regular,7,non_veg,early_planner,0,medium,committed,0,0,0,0,13,electronics,cultural,Dont Care
+1136,male,3,Others,23,7,1,6,8,2,3,9,cafe_noise,cooler,exam_crammer,0,non_veg,last_minute,4,medium,single,1,1,0,0,12,robotics,both,Dont Care
+1137,male,3,MNC,1,7,0,7,9,3,2,1,silence,fan,exam_crammer,0,veg,early_planner,9,high,single,0,0,1,1,15,electronics,cultural,Hindi
+1138,male,2,Others,4,9,1,0,7,5,5,10,cafe_noise,cooler,night_before,3,non_veg,last_minute,4,low,single,0,0,1,0,13,electronics,sports,Multilingual
+1139,male,4,Metallurgy,1,9,1,3,8,7,7,9,silence,fan,exam_crammer,5,veg,last_minute,4,high,single,0,0,0,0,14,robotics,none,Dont Care
+1140,male,1,Others,4,7,1,6,7,9,8,2,silence,cooler,night_before,0,non_veg,early_planner,9,medium,committed,0,0,1,0,18,mechanical,both,Dont Care
+1141,female,2,ECE,23,7,1,6,3,9,7,8,silence,cooler,night_before,3,non_veg,early_planner,5,medium,single,0,0,0,0,13,electronics,cultural,Dont Care
+1142,male,1,MNC,1,9,1,5,10,6,4,8,silence,fan,exam_crammer,0,veg,group_study,7,high,committed,0,0,0,0,9,robotics,sports,English
+1143,female,4,Metallurgy,2,8,1,1,8,3,4,10,cafe_noise,cooler,exam_crammer,3,non_veg,last_minute,2,medium,single,1,0,0,1,16,electronics,sports,Tamil
+1144,female,3,EEE,4,7,1,8,7,1,3,8,light_music,fan,night_before,5,veg,group_study,8,medium,single,0,1,1,0,13,management,none,Hindi
+1145,female,4,Metallurgy,1,9,1,4,6,1,1,6,silence,cooler,exam_crammer,5,non_veg,early_planner,0,medium,single,0,0,0,0,13,mechanical,sports,Dont Care
+1146,male,2,ECE,0,5,1,10,10,3,3,3,silence,fan,regular,2,veg,last_minute,3,low,committed,1,1,0,0,10,management,both,Tamil
+1147,male,3,MNC,23,7,0,9,9,5,6,0,silence,cooler,exam_crammer,2,veg,group_study,8,high,committed,1,1,0,0,9,management,sports,Hindi
+1148,male,2,EEE,0,6,1,6,8,2,3,2,silence,cooler,exam_crammer,1,non_veg,group_study,7,high,committed,0,1,0,1,15,robotics,none,Hindi
+1149,male,3,ECE,22,8,1,2,2,5,5,7,cafe_noise,cooler,regular,5,veg,group_study,9,high,single,0,0,0,0,11,management,cultural,Hindi
+1150,female,1,ECE,22,9,1,2,10,4,3,3,light_music,fan,exam_crammer,3,veg,early_planner,8,medium,single,0,0,0,0,17,electronics,both,Dont Care
+1151,male,1,CSE,2,6,1,6,10,4,3,9,light_music,cooler,exam_crammer,3,non_veg,early_planner,0,medium,committed,1,1,1,0,13,software,cultural,English
+1152,male,1,MNC,2,10,0,4,9,1,3,9,light_music,fan,night_before,1,non_veg,early_planner,8,high,single,1,0,0,1,11,mechanical,cultural,Dont Care
+1153,male,4,Metallurgy,23,10,0,2,6,7,7,1,cafe_noise,cooler,exam_crammer,1,veg,last_minute,2,low,single,0,0,0,0,15,electronics,sports,Dont Care
+1154,male,2,AI,23,7,1,7,6,4,4,7,light_music,cooler,exam_crammer,8,non_veg,early_planner,10,high,committed,0,0,0,0,17,ai_ml,sports,Tamil
+1155,male,4,AI,1,7,1,9,9,10,10,6,cafe_noise,fan,regular,4,veg,last_minute,9,medium,single,0,0,1,1,19,robotics,none,Telugu
+1156,female,1,Metallurgy,3,7,1,7,8,1,1,10,cafe_noise,cooler,night_before,3,veg,group_study,8,high,single,0,0,1,1,16,electronics,sports,Telugu
+1157,male,2,Metallurgy,22,7,0,10,5,6,7,9,silence,fan,night_before,0,veg,group_study,0,medium,single,0,0,0,0,12,mechanical,sports,Telugu
+1158,female,1,MNC,0,9,0,4,10,8,6,8,cafe_noise,fan,night_before,2,non_veg,early_planner,0,low,committed,0,0,1,0,19,management,cultural,Tamil
+1159,male,4,Metallurgy,1,6,1,7,8,8,8,1,light_music,fan,exam_crammer,5,non_veg,group_study,8,medium,single,0,1,0,0,14,mechanical,both,Multilingual
+1160,female,4,CSE,1,8,1,1,8,0,0,4,light_music,fan,night_before,4,veg,early_planner,10,high,committed,0,0,0,0,11,ai_ml,sports,Tamil
+1161,male,4,EEE,22,5,1,8,0,6,5,5,light_music,fan,regular,8,veg,last_minute,5,high,single,0,1,0,0,17,management,both,Hindi
+1162,male,1,Metallurgy,23,7,1,8,3,8,10,1,silence,cooler,night_before,1,veg,group_study,3,medium,committed,0,0,0,0,11,ai_ml,sports,Dont Care
+1163,female,2,AI,0,7,1,10,6,5,4,1,silence,fan,regular,5,non_veg,early_planner,6,low,committed,0,1,0,0,13,civil,sports,Multilingual
+1164,female,2,Metallurgy,1,9,1,1,10,0,0,9,silence,cooler,night_before,0,veg,group_study,4,high,committed,0,0,1,0,20,civil,none,Hindi
+1165,female,1,CSE,1,7,1,6,7,1,0,3,cafe_noise,fan,night_before,4,non_veg,group_study,9,high,committed,0,1,1,0,17,electronics,sports,Dont Care
+1166,male,2,Others,2,8,1,4,6,3,4,7,light_music,fan,regular,7,veg,early_planner,6,high,single,0,0,1,1,13,software,none,Dont Care
+1167,female,1,Others,1,5,1,8,9,3,1,10,cafe_noise,cooler,night_before,0,veg,group_study,7,medium,committed,0,1,0,0,8,management,cultural,Hindi
+1168,male,2,ECE,1,7,1,8,8,1,1,4,cafe_noise,cooler,night_before,0,veg,group_study,7,high,single,1,0,0,0,14,mechanical,both,Tamil
+1169,male,3,ME,1,5,1,6,8,7,8,8,light_music,fan,night_before,4,veg,group_study,0,medium,single,0,1,1,0,15,software,sports,Telugu
+1170,female,3,EEE,1,7,1,9,6,1,0,3,silence,fan,exam_crammer,1,non_veg,group_study,7,medium,committed,1,1,0,1,11,management,none,Multilingual
+1171,female,4,Civil,0,9,0,3,10,2,3,2,light_music,cooler,regular,2,non_veg,last_minute,5,high,single,0,0,0,0,8,management,cultural,Dont Care
+1172,male,3,ECE,0,9,0,1,9,3,2,9,cafe_noise,cooler,night_before,0,non_veg,group_study,3,medium,single,0,0,0,0,11,management,sports,English
+1173,male,3,Others,0,7,1,7,6,8,8,7,cafe_noise,fan,regular,8,non_veg,group_study,7,high,single,0,1,1,0,20,management,none,Dont Care
+1174,female,3,AI,1,10,1,0,10,9,8,0,silence,fan,regular,2,non_veg,early_planner,2,medium,single,1,0,0,0,8,software,none,Telugu
+1175,female,1,Civil,22,5,1,9,2,0,2,8,cafe_noise,fan,regular,4,veg,last_minute,3,low,committed,0,1,0,0,13,electronics,cultural,Dont Care
+1176,female,3,ECE,1,10,1,2,8,7,7,3,cafe_noise,cooler,night_before,4,non_veg,early_planner,5,high,single,0,0,1,0,15,robotics,sports,English
+1177,male,3,Civil,22,10,1,1,0,4,3,10,light_music,fan,night_before,2,non_veg,early_planner,10,medium,single,0,0,0,0,15,robotics,sports,Tamil
+1178,male,4,MNC,4,6,0,9,9,6,6,8,silence,cooler,regular,4,non_veg,early_planner,6,low,single,0,1,0,1,10,robotics,both,Dont Care
+1179,male,3,ME,22,9,1,4,9,7,5,7,light_music,cooler,exam_crammer,5,non_veg,last_minute,3,low,single,0,0,0,0,17,ai_ml,sports,Multilingual
+1180,male,3,MNC,1,7,0,7,6,4,4,2,light_music,fan,regular,4,veg,early_planner,3,medium,single,0,1,0,0,14,management,none,Tamil
+1181,male,2,Civil,1,7,0,8,7,7,7,2,light_music,fan,exam_crammer,1,veg,early_planner,6,high,committed,0,0,1,1,19,management,both,English
+1182,male,4,MNC,1,8,0,2,10,9,7,8,cafe_noise,cooler,regular,3,veg,early_planner,5,low,single,0,0,0,0,11,mechanical,both,Hindi
+1183,female,4,CSE,1,9,1,2,6,10,9,2,cafe_noise,fan,regular,5,non_veg,group_study,10,high,committed,0,0,0,0,12,ai_ml,sports,Dont Care
+1184,male,4,Others,4,7,1,6,8,7,7,3,silence,fan,regular,5,veg,early_planner,7,low,single,0,0,1,0,17,mechanical,both,Tamil
+1185,male,4,CSE,0,7,1,10,9,8,9,8,cafe_noise,cooler,night_before,0,veg,last_minute,0,medium,committed,1,0,1,0,14,civil,none,Dont Care
+1186,male,4,Metallurgy,1,10,1,0,7,1,1,3,silence,fan,exam_crammer,1,non_veg,last_minute,9,medium,single,0,0,1,1,13,mechanical,none,Multilingual
+1187,female,4,MNC,1,7,1,8,8,2,1,10,light_music,cooler,exam_crammer,3,non_veg,group_study,10,high,single,1,0,0,1,9,mechanical,cultural,Dont Care
+1188,male,1,Metallurgy,0,7,1,9,10,0,0,2,light_music,cooler,regular,3,non_veg,last_minute,6,high,committed,0,0,0,0,9,electronics,none,Tamil
+1189,male,3,AI,4,7,1,10,10,3,2,6,cafe_noise,fan,night_before,3,veg,last_minute,6,low,committed,1,1,1,0,13,robotics,cultural,Telugu
+1190,female,4,EEE,1,8,0,2,6,4,6,5,cafe_noise,cooler,night_before,1,non_veg,group_study,10,medium,committed,0,0,1,1,19,management,both,Tamil
+1191,male,3,AI,2,7,1,9,6,10,10,0,silence,cooler,exam_crammer,1,veg,early_planner,6,low,single,0,0,0,1,10,ai_ml,cultural,English
+1192,male,3,Civil,2,10,1,4,6,0,0,9,cafe_noise,fan,night_before,1,veg,group_study,6,high,committed,1,0,0,1,10,civil,sports,Tamil
+1193,male,1,Others,23,8,0,0,8,7,5,7,cafe_noise,cooler,exam_crammer,5,veg,early_planner,9,high,committed,0,0,0,0,13,ai_ml,cultural,Multilingual
+1194,male,4,MNC,0,9,1,5,6,1,1,0,cafe_noise,fan,exam_crammer,3,veg,early_planner,9,high,committed,1,0,1,0,12,management,sports,Tamil
+1195,male,2,ECE,3,7,1,6,6,0,1,3,light_music,cooler,exam_crammer,4,veg,last_minute,7,medium,single,0,0,0,1,11,electronics,both,Tamil
+1196,female,1,EEE,1,8,0,0,8,1,2,5,cafe_noise,cooler,night_before,4,non_veg,group_study,8,high,single,0,0,0,0,10,mechanical,cultural,Multilingual
+1197,female,2,ME,22,7,0,6,10,4,3,5,cafe_noise,cooler,exam_crammer,1,veg,last_minute,8,high,single,0,0,0,0,15,civil,none,Tamil
+1198,female,3,ME,0,10,1,1,10,8,6,6,light_music,cooler,exam_crammer,4,veg,last_minute,1,low,committed,0,0,1,0,18,robotics,sports,Multilingual
+1199,male,3,ME,1,7,0,10,6,8,10,10,light_music,cooler,regular,6,veg,early_planner,6,low,single,1,1,1,0,12,management,both,English
+1200,male,1,MNC,0,8,1,3,8,1,0,4,light_music,cooler,exam_crammer,3,veg,last_minute,6,low,single,0,0,0,0,9,software,none,Multilingual
+1201,male,1,ME,1,10,0,2,6,1,0,4,light_music,cooler,exam_crammer,0,veg,group_study,3,high,single,0,0,1,0,15,software,sports,English
+1202,female,2,CSE,4,7,0,7,10,2,0,3,cafe_noise,fan,regular,9,non_veg,last_minute,8,high,single,0,0,1,1,19,electronics,both,English
+1203,male,4,EEE,22,10,1,2,4,6,5,5,cafe_noise,cooler,regular,4,veg,last_minute,7,low,committed,0,0,0,0,10,robotics,both,Multilingual
+1204,male,2,CSE,4,7,1,10,9,10,9,6,cafe_noise,fan,night_before,0,veg,early_planner,0,low,single,0,1,0,1,8,software,none,Tamil
+1205,female,1,EEE,22,8,1,4,9,2,2,9,silence,cooler,exam_crammer,4,veg,group_study,1,high,committed,0,0,0,0,17,software,both,Dont Care
+1206,male,2,CSE,0,7,1,9,10,0,2,9,light_music,cooler,night_before,1,veg,last_minute,1,low,committed,0,0,1,0,17,management,cultural,Telugu
+1207,female,1,EEE,4,10,0,1,9,5,6,0,cafe_noise,fan,night_before,0,non_veg,early_planner,10,medium,committed,0,0,0,1,11,civil,both,Dont Care
+1208,female,2,Metallurgy,22,7,1,10,0,2,2,8,cafe_noise,fan,regular,5,veg,last_minute,7,low,committed,0,0,0,0,11,civil,sports,Multilingual
+1209,female,1,MNC,1,8,1,0,7,0,0,7,cafe_noise,fan,night_before,1,veg,group_study,0,medium,committed,0,0,1,0,14,management,sports,Tamil
+1210,male,1,MNC,1,7,0,6,7,3,5,6,light_music,cooler,exam_crammer,1,veg,last_minute,3,medium,committed,0,0,0,0,10,ai_ml,sports,English
+1211,male,1,ME,3,7,0,7,10,0,2,8,light_music,fan,regular,3,veg,last_minute,9,high,single,0,0,1,0,20,management,cultural,Hindi
+1212,male,4,AI,1,8,0,3,9,0,0,2,light_music,cooler,exam_crammer,3,non_veg,early_planner,4,low,committed,0,0,0,1,14,robotics,none,Telugu
+1213,male,2,ME,0,7,1,8,7,1,3,9,cafe_noise,cooler,exam_crammer,1,non_veg,last_minute,8,medium,single,0,0,0,1,9,software,cultural,Dont Care
+1214,male,2,Civil,3,8,1,0,8,9,10,3,light_music,fan,regular,7,non_veg,early_planner,6,low,committed,0,0,1,0,19,civil,cultural,Tamil
+1215,male,2,CSE,1,10,1,1,8,7,5,6,cafe_noise,cooler,exam_crammer,1,veg,group_study,7,high,single,0,0,1,0,15,management,cultural,Telugu
+1216,male,1,EEE,23,9,1,1,4,1,1,5,silence,fan,regular,8,non_veg,last_minute,10,high,committed,0,0,0,0,15,civil,both,Hindi
+1217,female,2,AI,0,5,1,10,7,10,10,1,light_music,fan,exam_crammer,0,non_veg,group_study,8,medium,single,0,1,1,1,11,civil,none,Hindi
+1218,male,2,Civil,1,9,1,0,10,1,0,1,light_music,fan,regular,9,non_veg,group_study,6,medium,single,0,0,1,0,18,ai_ml,both,Hindi
+1219,female,1,MNC,0,5,1,10,8,10,10,9,cafe_noise,fan,night_before,2,non_veg,last_minute,4,high,committed,0,1,0,0,10,robotics,cultural,Dont Care
+1220,male,3,MNC,3,7,0,6,7,10,9,6,light_music,cooler,exam_crammer,4,non_veg,early_planner,4,high,committed,0,0,1,0,19,mechanical,sports,Multilingual
+1221,male,1,ME,22,7,1,7,0,9,10,8,light_music,cooler,regular,2,veg,group_study,9,medium,committed,0,0,0,0,8,civil,cultural,Telugu
+1222,male,2,CSE,0,8,1,0,9,9,9,10,cafe_noise,fan,exam_crammer,5,non_veg,group_study,10,medium,committed,0,0,0,0,11,robotics,none,Multilingual
+1223,female,1,AI,1,8,1,0,10,7,9,8,cafe_noise,fan,exam_crammer,1,non_veg,last_minute,5,low,single,0,0,0,1,9,electronics,sports,Hindi
+1224,female,3,Others,3,8,1,3,6,5,3,6,cafe_noise,cooler,exam_crammer,0,non_veg,last_minute,4,low,single,0,0,1,0,21,ai_ml,none,Tamil
+1225,female,1,Civil,3,9,1,2,8,10,10,10,silence,cooler,regular,4,veg,last_minute,10,high,committed,0,0,1,0,19,mechanical,cultural,Hindi
+1226,female,2,Civil,1,10,0,3,7,3,2,7,cafe_noise,fan,night_before,2,veg,last_minute,8,high,committed,0,0,0,1,8,civil,none,Multilingual
+1227,male,3,ME,0,5,1,6,10,2,0,9,light_music,cooler,night_before,7,non_veg,last_minute,2,medium,single,0,1,0,1,17,management,both,Hindi
+1228,female,4,MNC,22,7,1,9,2,0,1,2,silence,cooler,night_before,7,veg,last_minute,2,low,committed,0,0,0,0,17,civil,sports,Hindi
+1229,male,2,ME,23,10,1,5,1,10,9,0,cafe_noise,cooler,regular,5,veg,early_planner,6,low,single,0,0,0,0,11,ai_ml,none,Multilingual
+1230,male,3,EEE,2,10,1,0,10,2,4,6,silence,cooler,night_before,2,non_veg,group_study,6,high,committed,1,0,1,0,18,ai_ml,sports,Multilingual
+1231,female,3,AI,4,9,1,0,9,8,7,7,silence,fan,regular,6,veg,early_planner,5,medium,committed,0,0,1,0,19,software,sports,Tamil
+1232,female,4,CSE,23,8,1,1,9,4,5,1,light_music,cooler,exam_crammer,4,non_veg,early_planner,2,low,single,0,0,0,0,17,civil,cultural,Multilingual
+1233,female,1,Metallurgy,2,10,1,5,9,5,4,8,silence,fan,exam_crammer,1,non_veg,last_minute,6,low,single,0,0,1,0,14,robotics,cultural,Tamil
+1234,female,1,ECE,22,6,0,9,1,4,2,3,cafe_noise,fan,night_before,3,non_veg,group_study,4,medium,committed,0,1,0,0,9,ai_ml,sports,English
+1235,female,2,ECE,2,5,1,8,9,0,0,9,silence,fan,regular,8,veg,early_planner,6,high,single,0,1,1,1,18,ai_ml,none,English
+1236,female,4,ME,2,7,1,8,9,9,9,10,silence,cooler,exam_crammer,5,non_veg,last_minute,1,medium,committed,0,0,1,0,17,electronics,sports,Multilingual
+1237,female,1,EEE,22,7,0,6,5,0,1,8,light_music,cooler,regular,7,non_veg,last_minute,5,medium,single,0,0,0,0,15,electronics,cultural,Hindi
+1238,female,4,AI,22,5,1,9,2,3,2,2,light_music,fan,regular,4,veg,group_study,7,medium,committed,0,1,0,0,10,electronics,none,Telugu
+1239,male,1,Others,0,10,0,1,10,2,3,7,cafe_noise,cooler,exam_crammer,5,non_veg,early_planner,0,low,committed,0,0,1,1,17,ai_ml,sports,Hindi
+1240,female,3,ECE,4,7,1,6,8,10,8,10,light_music,fan,regular,7,veg,early_planner,3,low,committed,1,0,0,1,13,mechanical,cultural,Multilingual
+1241,female,1,AI,3,9,1,4,6,7,7,1,cafe_noise,fan,exam_crammer,0,veg,early_planner,10,high,single,0,0,0,1,16,robotics,sports,Tamil
+1242,male,4,CSE,2,7,1,7,7,6,8,2,cafe_noise,cooler,exam_crammer,1,non_veg,last_minute,0,medium,single,0,0,0,1,15,ai_ml,sports,Hindi
+1243,female,3,EEE,0,8,1,4,8,10,9,0,light_music,cooler,exam_crammer,4,veg,group_study,0,medium,single,0,0,0,1,12,management,sports,English
+1244,male,3,MNC,1,8,1,0,8,6,4,4,silence,cooler,regular,7,non_veg,group_study,9,high,single,0,0,0,0,13,management,none,Dont Care
+1245,male,3,AI,1,9,1,2,10,7,8,3,light_music,fan,exam_crammer,5,veg,early_planner,10,high,committed,1,0,1,0,15,software,cultural,Multilingual
+1246,female,4,CSE,1,7,1,6,7,9,10,0,silence,fan,regular,5,veg,last_minute,7,medium,single,0,0,1,0,19,management,cultural,Hindi
+1247,male,2,Others,1,7,1,6,10,6,4,9,silence,cooler,exam_crammer,0,veg,early_planner,6,high,single,0,0,0,1,13,civil,both,Dont Care
+1248,male,2,Metallurgy,2,9,0,0,10,9,8,8,cafe_noise,fan,exam_crammer,3,veg,group_study,9,high,single,0,0,1,1,21,mechanical,sports,Hindi
+1249,male,2,MNC,1,10,0,3,8,1,3,5,cafe_noise,fan,night_before,0,non_veg,last_minute,0,medium,committed,0,0,0,0,9,mechanical,sports,Tamil
+1250,male,4,Metallurgy,4,7,1,10,9,3,2,5,light_music,fan,night_before,4,non_veg,early_planner,10,medium,single,0,0,1,0,14,robotics,both,Tamil
+1251,female,3,Others,2,7,0,10,6,10,10,10,silence,cooler,night_before,4,veg,early_planner,1,low,single,0,0,1,0,12,mechanical,sports,Tamil
+1252,male,2,CSE,3,9,0,2,6,5,4,1,light_music,cooler,regular,2,non_veg,last_minute,3,low,committed,0,0,0,1,8,robotics,none,Dont Care
+1253,female,4,ECE,0,8,1,1,6,2,2,6,cafe_noise,cooler,regular,5,non_veg,group_study,0,medium,committed,0,0,1,0,12,management,both,Telugu
+1254,male,2,Metallurgy,1,5,1,6,9,2,3,8,silence,fan,exam_crammer,2,non_veg,last_minute,2,low,committed,0,1,0,0,14,mechanical,cultural,Dont Care
+1255,male,1,MNC,23,5,0,8,7,5,5,5,light_music,cooler,exam_crammer,5,non_veg,early_planner,7,low,committed,0,1,0,0,11,civil,sports,Multilingual
+1256,male,2,ME,3,7,1,7,10,0,2,10,light_music,fan,exam_crammer,4,non_veg,early_planner,7,medium,committed,0,0,1,0,17,robotics,cultural,Multilingual
+1257,male,2,Civil,2,8,1,2,10,0,0,7,cafe_noise,fan,exam_crammer,1,non_veg,early_planner,7,medium,committed,0,0,0,1,11,electronics,sports,English
+1258,female,3,AI,0,7,1,10,7,4,4,4,cafe_noise,fan,regular,2,non_veg,early_planner,5,medium,committed,1,0,0,0,16,electronics,both,English
+1259,female,4,ECE,2,7,1,10,7,0,0,1,cafe_noise,cooler,exam_crammer,7,veg,group_study,5,high,single,0,0,0,1,17,mechanical,cultural,Multilingual
+1260,male,3,Metallurgy,0,7,0,10,7,9,9,3,cafe_noise,fan,exam_crammer,3,non_veg,group_study,4,medium,committed,0,1,1,0,13,mechanical,sports,Hindi
+1261,male,3,AI,22,10,1,0,5,7,8,0,light_music,cooler,night_before,2,veg,early_planner,8,high,committed,0,0,0,0,16,management,none,Multilingual
+1262,female,3,ME,0,7,0,6,9,1,1,0,cafe_noise,fan,exam_crammer,1,veg,group_study,3,medium,committed,0,0,0,0,13,robotics,both,Telugu
+1263,male,3,Others,3,10,0,1,7,5,7,5,cafe_noise,cooler,exam_crammer,3,veg,group_study,9,medium,committed,0,0,1,1,13,management,sports,English
+1264,male,3,Civil,4,8,1,2,8,9,9,1,light_music,cooler,exam_crammer,1,non_veg,group_study,6,high,committed,0,0,1,0,17,robotics,sports,English
+1265,male,2,CSE,22,7,1,6,2,9,10,5,light_music,cooler,regular,5,non_veg,early_planner,0,medium,single,0,0,0,0,17,civil,sports,Dont Care
+1266,female,3,ME,1,7,1,10,9,4,3,0,silence,cooler,night_before,2,veg,last_minute,8,medium,single,0,0,0,0,15,ai_ml,both,English
+1267,female,3,ME,4,9,1,5,6,9,10,10,light_music,cooler,exam_crammer,2,veg,last_minute,6,high,single,0,0,0,1,8,electronics,sports,Multilingual
+1268,female,4,Others,0,5,1,6,10,3,1,9,silence,cooler,exam_crammer,2,non_veg,last_minute,9,medium,single,0,1,0,0,15,ai_ml,sports,English
+1269,male,1,EEE,0,7,0,10,6,0,0,2,cafe_noise,cooler,night_before,5,non_veg,early_planner,8,medium,single,0,1,0,1,17,ai_ml,cultural,English
+1270,male,2,Others,1,10,1,4,7,2,1,8,silence,cooler,exam_crammer,5,non_veg,group_study,6,high,single,0,0,1,0,19,software,cultural,Dont Care
+1271,female,2,EEE,4,10,1,4,10,3,1,1,silence,fan,regular,4,veg,group_study,1,medium,single,0,0,1,0,15,robotics,both,Multilingual
+1272,female,2,EEE,0,8,1,3,8,1,1,7,cafe_noise,fan,exam_crammer,2,veg,early_planner,5,high,committed,0,0,0,0,16,software,both,Hindi
+1273,female,3,ECE,23,9,0,0,1,1,1,5,cafe_noise,fan,regular,4,non_veg,early_planner,9,medium,committed,0,0,0,0,17,software,none,English
+1274,female,3,ECE,4,7,1,6,10,1,1,5,cafe_noise,fan,regular,7,non_veg,last_minute,10,medium,committed,0,0,1,0,14,ai_ml,sports,English
+1275,male,3,MNC,0,9,0,3,8,10,10,6,silence,fan,exam_crammer,0,veg,last_minute,3,medium,committed,0,0,0,0,8,software,cultural,English
+1276,female,4,Metallurgy,2,7,1,7,8,0,0,4,light_music,cooler,night_before,5,non_veg,early_planner,2,low,committed,0,0,1,0,13,civil,cultural,Telugu
+1277,male,1,Metallurgy,2,7,1,9,8,9,10,10,light_music,cooler,regular,2,non_veg,last_minute,1,medium,committed,0,0,0,1,8,robotics,sports,Multilingual
+1278,female,3,CSE,23,7,1,7,0,1,0,3,light_music,cooler,night_before,5,veg,group_study,5,high,single,0,0,0,0,14,ai_ml,sports,English
+1279,male,1,Metallurgy,3,9,1,2,6,5,4,5,cafe_noise,cooler,exam_crammer,2,veg,early_planner,7,medium,committed,0,0,1,1,11,robotics,both,Telugu
+1280,female,4,ECE,0,9,1,0,9,2,2,7,cafe_noise,cooler,regular,7,veg,early_planner,5,high,committed,0,0,0,0,14,civil,none,Hindi
+1281,female,2,MNC,0,9,1,4,8,9,7,3,light_music,fan,exam_crammer,5,veg,group_study,8,high,committed,0,0,1,0,12,mechanical,none,Hindi
+1282,female,3,MNC,23,5,1,9,3,4,6,4,cafe_noise,fan,night_before,5,non_veg,group_study,4,high,single,1,1,0,0,14,software,both,Dont Care
+1283,female,1,EEE,22,7,1,10,6,0,0,6,silence,cooler,exam_crammer,3,veg,group_study,1,medium,single,0,0,0,0,9,ai_ml,both,Dont Care
+1284,male,1,Others,2,9,1,3,9,7,6,5,silence,fan,exam_crammer,5,non_veg,last_minute,7,low,single,0,0,1,0,21,electronics,cultural,Dont Care
+1285,female,3,CSE,0,6,0,8,9,3,4,3,cafe_noise,fan,regular,4,non_veg,early_planner,8,high,committed,0,1,0,0,10,robotics,both,Telugu
+1286,male,2,EEE,0,5,1,9,10,8,7,3,light_music,cooler,exam_crammer,5,non_veg,last_minute,9,high,committed,0,1,1,0,21,management,none,Hindi
+1287,male,2,Others,23,10,1,4,7,3,2,9,light_music,cooler,exam_crammer,2,veg,group_study,3,medium,committed,0,0,0,0,10,civil,cultural,Dont Care
+1288,male,2,Metallurgy,2,6,0,10,7,1,3,3,silence,fan,exam_crammer,2,veg,last_minute,5,medium,single,0,1,0,1,10,software,none,Tamil
+1289,male,4,EEE,4,9,0,1,10,2,4,0,cafe_noise,fan,regular,8,non_veg,group_study,10,high,single,0,0,1,1,22,robotics,sports,Dont Care
+1290,female,1,AI,1,7,0,10,8,4,2,4,light_music,cooler,night_before,0,non_veg,last_minute,9,high,committed,0,0,0,0,9,civil,none,Hindi
+1291,male,1,Metallurgy,23,10,1,2,5,9,9,7,light_music,fan,night_before,1,veg,last_minute,7,high,single,0,0,0,0,15,robotics,cultural,Tamil
+1292,male,1,Others,22,9,0,3,8,5,7,6,cafe_noise,cooler,exam_crammer,2,non_veg,group_study,8,high,committed,0,0,0,0,10,mechanical,none,Telugu
+1293,male,4,CSE,1,9,1,0,9,6,4,4,cafe_noise,fan,regular,5,non_veg,last_minute,4,high,single,0,0,0,0,17,management,cultural,Tamil
+1294,female,1,Others,23,10,1,5,7,3,2,2,light_music,fan,exam_crammer,2,non_veg,early_planner,5,high,single,0,0,0,0,13,civil,cultural,Hindi
+1295,female,4,EEE,4,8,0,2,10,6,4,10,cafe_noise,cooler,night_before,0,non_veg,last_minute,10,medium,single,0,0,1,0,14,robotics,both,English
+1296,female,2,EEE,2,10,1,5,9,9,7,0,cafe_noise,fan,regular,7,non_veg,last_minute,3,medium,committed,0,0,1,0,22,management,none,Tamil
+1297,female,3,ME,3,10,1,1,10,2,0,6,cafe_noise,cooler,night_before,4,non_veg,early_planner,4,high,single,0,0,1,0,20,mechanical,both,Hindi
+1298,male,1,CSE,2,7,1,7,7,6,4,10,light_music,fan,night_before,2,non_veg,group_study,6,high,committed,0,0,1,0,19,mechanical,both,Dont Care
+1299,male,1,Metallurgy,0,10,0,4,9,3,5,2,silence,fan,regular,4,non_veg,early_planner,8,medium,committed,0,0,1,1,11,mechanical,none,English
+1300,female,2,MNC,1,7,1,9,7,7,7,3,cafe_noise,cooler,regular,6,veg,last_minute,9,high,committed,0,0,1,1,15,software,cultural,Telugu
+1301,male,3,CSE,22,5,1,9,9,8,6,4,light_music,fan,exam_crammer,7,veg,group_study,10,high,single,0,1,0,0,17,civil,sports,Telugu
+1302,male,4,MNC,0,6,1,6,9,6,7,7,silence,cooler,exam_crammer,0,non_veg,last_minute,5,medium,single,0,1,1,1,18,robotics,none,Multilingual
+1303,male,3,CSE,1,8,1,5,10,7,6,6,light_music,cooler,night_before,1,non_veg,last_minute,5,high,single,1,0,1,1,18,robotics,both,Telugu
+1304,female,2,CSE,22,8,0,5,4,7,6,8,light_music,fan,regular,3,veg,early_planner,7,medium,committed,0,0,0,0,12,management,both,Multilingual
+1305,female,2,Others,23,10,1,4,3,1,0,10,light_music,cooler,regular,8,veg,early_planner,10,high,single,0,0,0,0,16,management,cultural,Telugu
+1306,male,3,CSE,0,10,1,4,8,8,7,2,silence,cooler,exam_crammer,2,veg,group_study,3,medium,single,0,0,0,0,8,civil,both,Telugu
+1307,female,4,ME,0,8,0,5,6,5,4,10,light_music,cooler,night_before,5,non_veg,group_study,2,medium,committed,1,0,0,1,13,mechanical,sports,Telugu
+1308,female,4,EEE,2,7,1,10,6,10,8,9,silence,fan,night_before,5,veg,group_study,6,high,committed,1,0,1,1,16,robotics,both,Multilingual
+1309,female,1,Civil,23,7,1,10,6,3,3,0,cafe_noise,cooler,exam_crammer,3,veg,last_minute,4,low,committed,0,0,0,0,9,robotics,cultural,Dont Care
+1310,female,4,MNC,23,9,0,1,2,4,5,0,silence,cooler,regular,5,non_veg,early_planner,1,low,single,0,0,0,0,11,mechanical,none,Multilingual
+1311,female,3,EEE,2,7,1,8,10,9,10,9,light_music,fan,exam_crammer,4,veg,early_planner,1,low,single,0,1,1,0,17,electronics,cultural,Tamil
+1312,male,2,Civil,22,8,1,1,10,4,5,0,silence,cooler,exam_crammer,0,non_veg,early_planner,10,high,committed,0,0,0,0,11,electronics,both,Hindi
+1313,female,1,MNC,23,7,1,9,9,6,8,1,light_music,cooler,exam_crammer,4,veg,group_study,5,medium,single,1,0,0,0,17,mechanical,cultural,Hindi
+1314,male,1,MNC,3,6,0,10,8,8,10,1,cafe_noise,cooler,exam_crammer,0,veg,early_planner,7,medium,committed,1,1,0,1,16,management,both,Dont Care
+1315,male,2,Civil,4,7,0,8,10,6,7,6,silence,fan,regular,3,veg,early_planner,0,low,single,0,0,1,0,14,software,cultural,Hindi
+1316,female,4,CSE,2,10,0,0,10,8,6,8,cafe_noise,fan,exam_crammer,0,veg,early_planner,10,medium,committed,1,0,1,1,20,management,none,Telugu
+1317,male,2,Metallurgy,3,9,0,2,7,3,2,7,silence,fan,regular,9,veg,group_study,5,high,single,0,0,0,1,17,management,both,Dont Care
+1318,male,4,AI,3,9,0,3,6,9,7,3,light_music,fan,exam_crammer,2,non_veg,early_planner,1,low,committed,0,0,1,1,13,robotics,sports,Hindi
+1319,male,2,EEE,23,9,0,0,5,9,8,1,silence,fan,night_before,2,non_veg,group_study,1,medium,committed,0,0,0,0,16,management,sports,Multilingual
+1320,female,3,Others,3,10,1,4,6,3,3,2,cafe_noise,fan,regular,8,veg,early_planner,6,low,committed,0,0,1,0,14,robotics,sports,Tamil
+1321,female,4,EEE,0,7,1,9,7,5,7,9,silence,cooler,night_before,1,non_veg,early_planner,9,medium,single,0,0,1,0,18,electronics,sports,English
+1322,male,3,Others,4,9,1,3,10,7,8,4,cafe_noise,fan,exam_crammer,4,veg,early_planner,0,medium,single,0,0,1,0,10,management,both,Tamil
+1323,female,1,Civil,1,10,1,2,7,8,8,8,cafe_noise,fan,exam_crammer,5,veg,group_study,5,high,single,0,0,0,0,17,mechanical,both,Hindi
+1324,female,2,Others,2,7,1,6,7,0,0,7,light_music,fan,exam_crammer,5,veg,group_study,6,high,committed,0,0,1,0,19,civil,none,Dont Care
+1325,female,1,MNC,2,8,1,0,9,0,0,2,silence,fan,regular,4,veg,early_planner,7,medium,committed,0,0,1,0,15,civil,cultural,Hindi
+1326,female,1,Metallurgy,22,7,1,9,4,7,8,8,cafe_noise,cooler,night_before,0,veg,last_minute,6,medium,committed,0,1,0,0,13,management,both,Multilingual
+1327,male,1,Metallurgy,1,9,1,4,6,10,10,9,light_music,cooler,regular,6,non_veg,group_study,5,high,committed,0,0,1,0,21,software,sports,Tamil
+1328,male,1,MNC,0,9,0,1,8,6,6,2,light_music,fan,regular,4,non_veg,group_study,8,high,committed,0,0,0,0,15,management,both,Multilingual
+1329,female,2,ME,0,9,0,1,7,8,10,9,light_music,cooler,exam_crammer,0,non_veg,early_planner,2,low,committed,0,0,1,1,13,mechanical,sports,Multilingual
+1330,female,1,Civil,4,8,0,3,8,10,9,7,cafe_noise,fan,night_before,1,non_veg,last_minute,10,high,committed,0,0,0,1,11,electronics,none,English
+1331,male,2,ME,2,7,0,9,8,2,4,0,silence,cooler,exam_crammer,2,veg,early_planner,5,medium,committed,0,0,1,0,11,electronics,cultural,Multilingual
+1332,male,2,ME,22,7,1,9,3,9,7,3,cafe_noise,fan,regular,5,non_veg,group_study,3,medium,committed,0,0,0,0,12,management,both,Multilingual
+1333,female,3,EEE,23,6,1,10,9,4,4,3,light_music,fan,exam_crammer,5,veg,group_study,1,high,single,0,1,0,0,16,robotics,cultural,English
+1334,male,4,EEE,0,7,1,10,6,2,2,5,cafe_noise,fan,night_before,4,veg,early_planner,0,medium,committed,1,1,0,0,11,ai_ml,sports,Telugu
+1335,female,4,AI,23,8,1,5,6,4,2,1,cafe_noise,fan,exam_crammer,1,non_veg,early_planner,0,medium,single,0,0,0,0,14,software,sports,Telugu
+1336,female,2,Others,0,8,1,4,8,9,10,6,light_music,cooler,night_before,2,non_veg,last_minute,10,medium,committed,0,0,0,1,15,software,cultural,Dont Care
+1337,male,3,MNC,0,8,1,4,8,0,0,4,silence,fan,night_before,2,veg,last_minute,9,high,single,0,0,0,0,9,ai_ml,none,English
+1338,male,2,EEE,1,8,1,1,8,10,10,9,light_music,cooler,exam_crammer,5,veg,group_study,2,medium,committed,0,0,0,0,17,civil,cultural,Dont Care
+1339,female,2,Civil,0,10,1,0,10,3,1,5,light_music,cooler,regular,3,veg,last_minute,3,low,single,0,0,0,0,9,civil,cultural,Dont Care
+1340,female,2,Others,23,7,0,9,7,5,7,10,cafe_noise,cooler,exam_crammer,4,non_veg,last_minute,1,low,committed,0,0,0,0,15,civil,both,Multilingual
+1341,male,3,AI,2,7,1,7,8,1,0,5,light_music,fan,regular,8,veg,group_study,10,medium,committed,0,0,1,0,16,electronics,both,Dont Care
+1342,female,4,AI,23,10,1,0,4,6,5,10,cafe_noise,cooler,regular,9,veg,group_study,10,high,committed,1,0,0,0,17,mechanical,sports,Hindi
+1343,male,3,Civil,2,9,1,1,8,7,5,5,light_music,cooler,exam_crammer,0,veg,group_study,10,medium,single,1,0,1,0,19,software,both,Tamil
+1344,female,1,ME,1,5,1,9,10,0,0,9,light_music,cooler,regular,2,veg,group_study,0,medium,committed,0,1,1,0,18,ai_ml,none,Hindi
+1345,male,3,Metallurgy,3,8,1,1,7,3,5,7,silence,fan,regular,7,non_veg,early_planner,3,medium,single,0,0,1,0,17,robotics,none,Hindi
+1346,male,3,Civil,1,9,1,1,6,10,10,9,light_music,cooler,exam_crammer,0,non_veg,group_study,6,medium,single,1,0,0,0,12,management,none,Multilingual
+1347,male,3,ECE,2,10,1,2,6,3,4,3,silence,fan,exam_crammer,1,veg,group_study,9,medium,single,0,0,1,0,12,robotics,sports,Tamil
+1348,female,3,Civil,0,7,0,10,7,4,6,9,light_music,cooler,exam_crammer,8,non_veg,group_study,10,medium,single,1,1,0,1,17,management,none,Dont Care
+1349,female,4,AI,23,8,1,3,3,3,5,7,light_music,cooler,regular,2,veg,last_minute,5,high,single,0,0,0,0,8,electronics,none,Tamil
+1350,male,1,MNC,22,8,0,5,3,8,10,8,light_music,fan,night_before,3,non_veg,group_study,5,medium,committed,0,0,0,0,11,software,both,Dont Care
+1351,female,4,EEE,1,8,0,0,8,6,5,3,silence,fan,regular,7,non_veg,early_planner,10,medium,single,0,0,1,0,21,mechanical,sports,Telugu
+1352,male,4,MNC,1,9,1,4,9,1,1,0,cafe_noise,cooler,night_before,3,non_veg,early_planner,8,high,single,0,0,0,0,9,software,cultural,English
+1353,male,3,AI,23,7,1,8,8,0,0,2,silence,fan,exam_crammer,2,non_veg,group_study,1,high,single,0,1,0,0,8,management,none,Multilingual
+1354,female,2,EEE,1,10,1,5,10,8,10,0,light_music,cooler,night_before,1,veg,early_planner,3,medium,single,0,0,1,0,12,civil,both,Dont Care
+1355,female,2,ECE,0,9,1,2,6,0,2,6,cafe_noise,cooler,exam_crammer,0,veg,last_minute,4,medium,committed,0,0,1,1,11,robotics,cultural,Dont Care
+1356,male,4,Metallurgy,1,6,1,8,10,5,7,0,light_music,fan,exam_crammer,6,veg,group_study,0,medium,committed,1,1,0,0,17,software,none,Tamil
+1357,female,4,Others,1,8,1,0,10,1,2,10,silence,fan,night_before,3,non_veg,early_planner,7,high,committed,0,0,0,0,11,robotics,cultural,Multilingual
+1358,female,3,AI,3,10,1,2,10,3,5,3,silence,fan,exam_crammer,1,non_veg,early_planner,7,high,single,0,0,1,0,16,ai_ml,cultural,Dont Care
+1359,male,4,AI,1,9,0,2,6,5,3,0,cafe_noise,cooler,night_before,1,veg,group_study,5,high,single,1,0,0,1,16,ai_ml,sports,Telugu
+1360,male,3,AI,0,7,0,9,10,4,6,1,silence,cooler,exam_crammer,2,non_veg,early_planner,4,medium,single,0,1,0,0,8,robotics,sports,Hindi
+1361,female,2,EEE,22,7,0,6,2,10,8,10,light_music,cooler,regular,2,non_veg,group_study,7,medium,committed,0,0,0,0,10,mechanical,none,Dont Care
+1362,male,2,CSE,3,10,1,5,8,5,4,0,cafe_noise,fan,regular,5,veg,early_planner,2,low,single,0,0,1,0,20,mechanical,none,Tamil
+1363,male,1,Civil,2,9,0,0,8,2,2,4,light_music,fan,exam_crammer,4,non_veg,last_minute,2,medium,committed,0,0,1,0,10,software,sports,Telugu
+1364,female,2,CSE,0,10,1,0,6,4,5,6,cafe_noise,fan,exam_crammer,1,veg,early_planner,1,medium,single,0,0,1,0,15,robotics,none,Multilingual
+1365,male,4,ECE,4,9,1,4,7,1,0,2,cafe_noise,cooler,night_before,2,non_veg,early_planner,4,medium,single,0,0,1,0,18,electronics,none,Dont Care
+1366,male,2,Metallurgy,0,10,0,5,10,6,5,7,light_music,fan,regular,3,veg,group_study,2,high,committed,1,0,0,0,12,mechanical,sports,Telugu
+1367,female,3,ME,22,7,1,9,3,2,2,4,silence,fan,night_before,4,non_veg,early_planner,2,low,single,0,1,0,0,10,management,cultural,Telugu
+1368,female,2,ECE,0,7,1,9,8,0,0,4,light_music,cooler,exam_crammer,1,non_veg,group_study,5,high,committed,0,0,0,0,12,mechanical,none,Telugu
+1369,male,1,ME,0,8,1,2,6,7,7,4,silence,fan,exam_crammer,2,non_veg,last_minute,7,medium,single,0,0,0,0,11,civil,both,Telugu
+1370,male,2,ME,4,10,1,5,6,7,5,7,silence,fan,night_before,3,non_veg,group_study,1,medium,committed,0,0,0,1,9,ai_ml,sports,Telugu
+1371,female,3,Metallurgy,3,9,1,4,10,2,1,1,light_music,cooler,exam_crammer,3,non_veg,group_study,3,medium,single,0,0,1,0,19,mechanical,none,Telugu
+1372,female,3,MNC,1,7,1,8,6,6,8,1,cafe_noise,cooler,regular,3,veg,early_planner,10,medium,single,1,1,0,0,9,management,none,English
+1373,female,4,CSE,4,7,1,7,10,8,7,7,light_music,cooler,night_before,5,non_veg,last_minute,6,medium,single,0,0,1,0,19,mechanical,sports,Multilingual
+1374,female,2,AI,23,7,1,6,0,7,6,8,cafe_noise,cooler,regular,4,veg,group_study,0,high,single,0,0,0,0,15,management,both,Hindi
+1375,male,3,Others,0,10,0,3,6,2,1,10,silence,cooler,regular,6,veg,early_planner,0,medium,single,0,0,0,1,15,civil,both,Multilingual
+1376,female,1,ME,22,10,1,5,5,1,0,9,cafe_noise,cooler,regular,7,veg,early_planner,9,high,committed,0,0,0,0,13,management,sports,Tamil
+1377,female,4,ECE,23,7,1,7,2,9,7,9,light_music,fan,night_before,1,non_veg,group_study,6,medium,committed,0,0,0,0,15,mechanical,both,Tamil
+1378,male,1,MNC,3,9,0,1,8,6,4,1,cafe_noise,fan,exam_crammer,5,veg,early_planner,6,high,single,0,0,1,0,16,civil,none,Multilingual
+1379,female,2,ME,0,6,1,7,8,6,5,3,silence,cooler,regular,8,non_veg,group_study,0,high,committed,0,1,0,0,16,robotics,both,Telugu
+1380,male,2,MNC,0,7,1,8,9,8,6,7,silence,cooler,regular,3,non_veg,group_study,0,high,committed,1,1,0,0,9,robotics,none,English
+1381,female,2,MNC,23,9,1,3,5,4,4,1,cafe_noise,fan,regular,8,non_veg,group_study,3,high,committed,0,0,0,0,16,ai_ml,cultural,Hindi
+1382,female,4,ME,22,7,1,9,9,3,1,3,silence,cooler,exam_crammer,4,veg,last_minute,4,high,committed,0,1,0,0,15,software,both,Dont Care
+1383,female,3,EEE,4,7,1,10,9,7,8,9,silence,cooler,exam_crammer,3,non_veg,group_study,4,high,single,1,0,0,1,9,civil,cultural,Dont Care
+1384,male,4,Civil,4,9,1,1,7,3,1,0,cafe_noise,fan,night_before,4,non_veg,early_planner,3,low,committed,0,0,1,0,20,mechanical,sports,Telugu
+1385,male,1,AI,4,8,1,2,8,3,1,1,silence,fan,exam_crammer,3,non_veg,last_minute,7,medium,committed,0,0,1,1,19,software,both,Multilingual
+1386,female,4,AI,4,9,1,1,8,1,0,6,cafe_noise,cooler,night_before,2,veg,early_planner,6,low,single,0,0,0,1,14,robotics,none,Dont Care
+1387,male,1,EEE,2,7,1,6,10,0,0,0,cafe_noise,cooler,night_before,5,veg,last_minute,8,medium,single,0,0,1,1,13,mechanical,both,Multilingual
+1388,male,4,AI,22,7,0,7,4,3,4,0,silence,fan,night_before,2,veg,last_minute,6,medium,single,1,0,0,0,14,software,sports,English
+1389,male,3,MNC,22,9,1,4,5,6,8,1,cafe_noise,cooler,night_before,3,veg,last_minute,9,medium,single,0,0,0,0,15,civil,sports,English
+1390,male,1,Metallurgy,4,9,0,2,8,8,6,3,silence,fan,night_before,2,non_veg,last_minute,0,low,single,0,0,0,1,8,civil,none,Multilingual
+1391,male,2,ECE,1,10,0,1,9,8,8,6,silence,fan,regular,4,veg,early_planner,6,low,single,0,0,0,0,10,software,both,Telugu
+1392,male,2,CSE,22,9,1,4,10,9,10,3,silence,cooler,exam_crammer,4,non_veg,group_study,0,high,single,0,0,0,0,10,management,cultural,Telugu
+1393,female,4,AI,4,8,1,5,6,0,2,4,light_music,fan,regular,3,veg,early_planner,6,low,single,0,0,0,1,12,civil,sports,Telugu
+1394,female,2,Metallurgy,4,9,0,1,9,4,2,3,silence,fan,night_before,3,non_veg,group_study,9,medium,committed,0,0,0,1,9,electronics,sports,Dont Care
+1395,male,1,ME,23,8,0,1,6,6,8,3,cafe_noise,fan,exam_crammer,0,veg,early_planner,7,low,single,0,0,0,0,11,robotics,none,Hindi
+1396,female,2,Civil,0,10,1,0,8,6,6,8,cafe_noise,cooler,regular,3,veg,last_minute,10,medium,committed,0,0,0,0,9,ai_ml,both,Hindi
+1397,female,3,MNC,1,5,0,7,9,9,10,5,cafe_noise,cooler,regular,3,veg,last_minute,8,high,single,0,1,1,0,20,ai_ml,cultural,Telugu
+1398,female,3,Civil,1,7,1,6,8,5,6,2,light_music,cooler,night_before,0,non_veg,group_study,2,high,single,0,0,0,1,12,electronics,both,Multilingual
+1399,female,4,ECE,1,9,1,3,6,10,10,5,light_music,fan,regular,4,non_veg,group_study,3,high,committed,0,0,0,1,11,software,both,English
+1400,male,1,ECE,1,5,1,7,9,9,7,6,cafe_noise,fan,regular,3,veg,early_planner,3,low,single,0,1,0,0,9,civil,cultural,Tamil
+1401,female,3,EEE,1,8,1,0,8,3,2,6,cafe_noise,cooler,regular,5,veg,group_study,8,medium,single,1,0,0,0,15,electronics,none,English
+1402,female,3,Others,3,7,1,9,6,2,3,7,light_music,fan,regular,7,veg,early_planner,6,medium,committed,0,0,0,1,13,electronics,sports,English
+1403,male,1,EEE,0,8,1,1,9,8,7,3,cafe_noise,fan,regular,2,veg,group_study,2,high,committed,0,0,0,0,8,civil,none,Tamil
+1404,male,2,Metallurgy,23,6,1,9,5,9,10,0,silence,cooler,night_before,4,veg,group_study,9,high,committed,0,1,0,0,10,robotics,none,Telugu
+1405,female,2,Civil,4,8,1,2,7,3,1,5,silence,fan,night_before,0,veg,group_study,4,medium,committed,0,0,0,1,10,civil,both,English
+1406,female,4,Others,1,8,0,4,9,7,5,7,cafe_noise,fan,regular,7,non_veg,last_minute,6,low,committed,1,0,0,0,14,civil,cultural,Tamil
+1407,female,2,ME,22,9,0,5,3,0,1,4,silence,fan,night_before,0,non_veg,last_minute,7,low,committed,0,0,0,0,9,management,sports,Dont Care
+1408,female,1,MNC,23,10,1,4,4,6,8,2,cafe_noise,fan,night_before,0,non_veg,early_planner,0,medium,single,0,0,0,0,12,mechanical,both,Multilingual
+1409,female,3,Civil,22,10,1,3,8,5,3,3,light_music,fan,exam_crammer,0,non_veg,group_study,1,high,single,0,0,0,0,11,software,sports,Multilingual
+1410,female,2,EEE,1,8,1,0,8,0,0,7,cafe_noise,fan,regular,2,non_veg,early_planner,6,high,single,0,0,0,1,8,ai_ml,both,Multilingual
+1411,male,4,CSE,4,9,1,4,6,3,3,5,light_music,cooler,night_before,4,non_veg,group_study,10,medium,single,1,0,1,0,14,ai_ml,cultural,Telugu
+1412,female,2,Others,2,7,1,7,7,4,2,4,silence,cooler,night_before,1,veg,last_minute,1,medium,single,0,1,0,1,10,electronics,sports,English
+1413,female,1,Others,0,7,1,6,9,10,10,8,silence,fan,regular,4,veg,last_minute,6,high,committed,0,1,0,0,15,management,sports,English
+1414,male,4,MNC,22,8,0,1,7,7,5,9,silence,cooler,exam_crammer,1,veg,group_study,8,high,committed,0,0,0,0,11,electronics,none,Hindi
+1415,male,2,AI,2,5,0,10,9,3,1,2,cafe_noise,cooler,regular,6,veg,group_study,10,medium,single,0,1,1,0,12,electronics,both,Multilingual
+1416,male,4,ECE,0,7,1,9,8,2,4,6,light_music,cooler,exam_crammer,3,veg,last_minute,1,medium,committed,0,0,0,0,13,software,both,Telugu
+1417,male,1,ECE,0,9,1,0,6,1,3,8,light_music,fan,regular,5,non_veg,last_minute,6,medium,single,0,0,0,0,13,electronics,both,Tamil
+1418,female,3,CSE,22,9,1,4,3,3,1,10,silence,cooler,regular,5,non_veg,early_planner,3,medium,committed,0,0,0,0,11,electronics,none,Telugu
+1419,female,1,Metallurgy,1,7,1,9,6,10,10,10,silence,fan,regular,5,non_veg,last_minute,10,high,single,0,1,0,0,16,mechanical,none,English
+1420,female,1,Metallurgy,22,6,1,9,0,9,10,3,light_music,cooler,regular,4,non_veg,group_study,1,high,single,0,1,0,0,15,software,sports,Multilingual
+1421,female,1,ME,3,10,1,5,9,3,1,9,cafe_noise,cooler,exam_crammer,6,non_veg,early_planner,6,medium,single,0,0,0,1,17,robotics,both,Hindi
+1422,female,1,Civil,2,5,1,6,10,9,10,9,silence,fan,exam_crammer,5,veg,group_study,4,high,committed,0,1,1,0,13,management,both,Dont Care
+1423,female,3,AI,1,9,0,0,8,4,2,2,cafe_noise,cooler,night_before,5,non_veg,early_planner,0,medium,committed,0,0,0,1,17,robotics,sports,Telugu
+1424,male,3,EEE,0,6,1,7,9,6,8,0,silence,fan,regular,5,non_veg,group_study,4,medium,single,0,1,1,0,19,civil,sports,Hindi
+1425,female,4,Others,2,5,0,7,7,8,7,8,silence,cooler,exam_crammer,3,non_veg,last_minute,2,low,committed,0,1,1,0,15,mechanical,sports,English
+1426,male,2,CSE,23,9,0,0,10,1,1,0,cafe_noise,cooler,exam_crammer,3,veg,group_study,6,medium,single,0,0,0,0,10,ai_ml,cultural,Tamil
+1427,male,3,ECE,23,8,0,3,7,4,5,1,cafe_noise,cooler,exam_crammer,3,veg,early_planner,5,medium,single,0,0,0,0,16,civil,cultural,Telugu
+1428,female,3,ME,0,9,1,1,7,10,10,8,cafe_noise,cooler,regular,7,veg,group_study,7,high,committed,0,0,0,0,16,robotics,sports,Dont Care
+1429,male,2,Metallurgy,4,9,1,2,6,9,10,4,cafe_noise,fan,night_before,7,veg,early_planner,4,low,single,0,0,0,1,17,software,none,English
+1430,female,3,CSE,0,7,1,7,9,8,9,3,light_music,fan,exam_crammer,0,veg,group_study,1,medium,single,0,0,0,1,12,ai_ml,none,Multilingual
+1431,male,1,Others,3,10,1,3,6,2,0,8,light_music,cooler,regular,7,veg,last_minute,8,medium,single,0,0,1,0,13,electronics,both,Telugu
+1432,female,1,EEE,2,7,1,7,6,0,0,8,silence,fan,exam_crammer,1,non_veg,last_minute,10,medium,committed,0,1,1,0,17,software,cultural,Hindi
+1433,male,2,ME,3,10,1,3,10,1,0,1,silence,cooler,exam_crammer,5,non_veg,group_study,7,medium,single,0,0,0,1,16,ai_ml,cultural,Telugu
+1434,female,4,Others,23,8,1,1,4,5,4,2,silence,fan,night_before,1,non_veg,group_study,5,high,single,0,0,0,0,9,robotics,sports,English
+1435,female,4,ECE,2,7,1,9,10,4,3,2,light_music,fan,exam_crammer,0,veg,group_study,9,medium,single,0,1,1,1,12,civil,sports,English
+1436,female,2,ECE,1,6,0,6,10,0,0,4,cafe_noise,fan,exam_crammer,3,veg,early_planner,6,medium,single,0,1,1,1,21,electronics,sports,Hindi
+1437,female,2,ECE,3,8,1,1,8,0,0,2,silence,cooler,regular,4,veg,group_study,8,high,committed,0,0,1,1,17,electronics,sports,Dont Care
+1438,female,1,CSE,1,7,1,9,6,10,9,9,light_music,fan,regular,3,veg,group_study,6,high,single,0,1,0,0,10,management,sports,English
+1439,male,4,CSE,1,9,1,0,7,3,1,5,silence,fan,night_before,2,non_veg,early_planner,2,low,single,0,0,0,0,8,software,none,Telugu
+1440,male,3,Metallurgy,23,6,0,7,3,3,5,1,light_music,cooler,regular,3,veg,last_minute,5,high,committed,0,1,0,0,9,civil,none,Dont Care
+1441,male,1,Metallurgy,22,8,1,1,1,5,6,5,cafe_noise,cooler,regular,4,veg,group_study,10,high,committed,0,0,0,0,13,electronics,sports,Hindi
+1442,female,2,EEE,2,7,1,9,7,5,5,5,light_music,cooler,night_before,4,veg,group_study,10,medium,committed,0,0,0,1,14,ai_ml,none,English
+1443,male,4,ME,0,9,1,0,7,9,7,1,cafe_noise,fan,exam_crammer,3,veg,last_minute,6,high,committed,0,0,0,0,10,management,sports,English
+1444,female,3,MNC,3,10,1,5,8,5,3,5,silence,fan,night_before,3,veg,last_minute,1,medium,committed,0,0,1,0,18,management,sports,Telugu
+1445,female,3,MNC,0,9,1,4,7,0,0,5,cafe_noise,fan,regular,7,non_veg,early_planner,2,medium,committed,0,0,0,1,16,mechanical,cultural,English
+1446,male,1,Others,4,9,1,0,8,9,9,5,light_music,fan,night_before,4,veg,group_study,3,high,single,0,0,0,1,13,robotics,none,Telugu
+1447,male,4,ECE,3,9,1,5,6,8,7,4,silence,fan,exam_crammer,6,veg,group_study,9,high,single,0,0,0,1,17,software,none,Multilingual
+1448,female,4,ME,4,6,1,6,8,10,10,6,silence,fan,night_before,0,non_veg,early_planner,5,high,committed,0,1,0,1,14,civil,cultural,Dont Care
+1449,male,2,CSE,22,9,1,1,3,6,7,4,light_music,cooler,regular,3,veg,last_minute,0,medium,single,0,0,0,0,9,mechanical,none,Telugu
+1450,female,4,Civil,22,8,0,5,3,6,7,10,cafe_noise,fan,regular,9,veg,early_planner,8,medium,committed,0,0,0,0,17,mechanical,cultural,Tamil
+1451,female,4,AI,4,10,0,5,10,10,10,0,light_music,fan,night_before,3,non_veg,last_minute,4,high,single,1,0,1,1,14,software,both,English
+1452,female,1,EEE,22,10,1,4,8,6,7,8,cafe_noise,fan,exam_crammer,2,non_veg,early_planner,6,low,committed,0,0,0,0,15,ai_ml,none,Multilingual
+1453,female,4,ECE,22,6,1,8,4,1,2,2,cafe_noise,cooler,night_before,3,non_veg,last_minute,8,high,committed,1,1,0,0,9,civil,sports,Dont Care
+1454,female,3,ECE,23,5,1,7,7,1,0,1,silence,fan,exam_crammer,3,non_veg,early_planner,8,medium,single,0,1,0,0,13,robotics,cultural,Hindi
+1455,male,1,ECE,4,8,1,5,8,5,3,9,cafe_noise,cooler,exam_crammer,5,non_veg,last_minute,0,medium,committed,0,0,1,0,17,software,sports,Tamil
+1456,male,1,CSE,0,8,1,5,10,6,6,5,silence,fan,night_before,1,non_veg,last_minute,0,medium,single,0,0,1,1,14,civil,sports,Hindi
+1457,female,2,CSE,2,7,1,6,8,2,0,7,light_music,cooler,exam_crammer,0,non_veg,last_minute,2,low,committed,0,1,1,0,12,mechanical,none,Tamil
+1458,female,4,AI,0,8,1,4,8,3,3,1,light_music,cooler,regular,3,non_veg,last_minute,5,low,committed,0,0,0,0,11,mechanical,cultural,Multilingual
+1459,male,2,ME,1,7,1,9,8,2,1,3,silence,cooler,night_before,2,non_veg,last_minute,1,medium,single,0,1,0,0,16,software,both,Dont Care
+1460,male,3,ECE,0,8,1,3,7,6,5,1,silence,fan,exam_crammer,5,non_veg,group_study,9,high,committed,0,0,0,0,14,civil,sports,Multilingual
+1461,female,1,MNC,23,6,1,8,2,6,8,8,cafe_noise,cooler,regular,4,veg,last_minute,10,high,single,0,1,0,0,10,mechanical,sports,Multilingual
+1462,male,1,Metallurgy,4,8,1,0,8,3,5,9,silence,fan,night_before,0,non_veg,group_study,0,medium,single,0,0,1,0,16,software,both,Tamil
+1463,female,1,MNC,0,7,1,8,6,6,5,1,light_music,cooler,regular,5,non_veg,last_minute,0,medium,single,0,0,0,1,11,management,cultural,Telugu
+1464,male,3,Others,2,7,1,6,10,4,3,9,silence,fan,regular,8,non_veg,group_study,4,high,single,0,1,1,0,15,software,none,Dont Care
+1465,female,3,MNC,3,8,1,1,9,0,0,1,silence,cooler,regular,7,non_veg,group_study,3,high,single,0,0,1,0,21,robotics,sports,Hindi
+1466,male,2,Others,1,9,1,3,8,9,8,4,silence,cooler,exam_crammer,0,non_veg,early_planner,0,medium,committed,0,0,0,0,8,software,none,Telugu
+1467,female,2,Civil,0,10,1,0,6,3,1,4,cafe_noise,fan,night_before,2,veg,last_minute,3,low,committed,0,0,1,0,15,management,cultural,Telugu
+1468,male,2,Metallurgy,0,7,1,6,8,6,6,6,silence,cooler,night_before,2,veg,early_planner,2,low,single,1,0,0,0,8,civil,both,English
+1469,male,4,MNC,0,9,1,4,8,1,0,0,cafe_noise,fan,exam_crammer,2,veg,early_planner,1,low,committed,1,0,0,1,12,civil,none,Hindi
+1470,female,1,Civil,22,10,1,3,1,1,1,1,cafe_noise,cooler,night_before,2,non_veg,last_minute,8,high,single,0,0,0,0,9,mechanical,cultural,Tamil
+1471,male,1,EEE,0,7,1,10,6,0,0,10,silence,cooler,regular,4,non_veg,early_planner,10,high,committed,0,0,0,1,16,electronics,none,English
+1472,female,2,ME,23,8,1,3,3,1,2,10,cafe_noise,fan,night_before,2,veg,last_minute,0,medium,single,1,0,0,0,10,robotics,none,English
+1473,male,1,Civil,23,6,1,10,6,9,10,5,silence,fan,exam_crammer,3,non_veg,early_planner,6,high,committed,0,1,0,0,9,civil,sports,Multilingual
+1474,female,2,ME,23,8,0,0,5,7,7,1,light_music,fan,regular,2,non_veg,last_minute,3,low,single,0,0,0,0,8,mechanical,none,Tamil
+1475,male,4,MNC,4,10,0,2,10,10,10,3,light_music,cooler,exam_crammer,3,veg,last_minute,4,low,committed,1,0,0,1,12,mechanical,sports,Telugu
+1476,female,4,Civil,1,9,1,0,8,7,8,9,cafe_noise,fan,regular,5,non_veg,last_minute,9,medium,single,0,0,0,0,11,robotics,cultural,Dont Care
+1477,male,3,Metallurgy,23,7,0,7,4,7,6,5,light_music,fan,regular,4,non_veg,group_study,4,high,single,0,0,0,0,16,robotics,cultural,Telugu
+1478,female,4,MNC,22,8,1,0,1,0,0,6,silence,cooler,night_before,5,non_veg,early_planner,0,low,committed,0,0,0,0,17,mechanical,sports,Telugu
+1479,male,2,ECE,1,9,1,0,6,0,1,9,cafe_noise,fan,regular,11,non_veg,group_study,5,medium,single,0,0,0,0,17,management,both,Multilingual
+1480,female,4,CSE,1,10,1,3,7,9,7,4,silence,fan,exam_crammer,0,non_veg,early_planner,8,high,single,0,0,1,0,18,electronics,none,Telugu
+1481,female,3,Civil,4,10,0,3,10,3,4,7,cafe_noise,cooler,night_before,4,non_veg,early_planner,1,low,committed,0,0,1,0,13,management,cultural,Hindi
+1482,female,1,Metallurgy,0,8,1,2,9,5,7,5,cafe_noise,cooler,exam_crammer,3,non_veg,early_planner,6,medium,committed,0,0,1,0,20,ai_ml,cultural,Telugu
+1483,male,2,EEE,1,7,0,7,9,7,9,4,cafe_noise,cooler,regular,3,veg,group_study,5,high,single,0,0,1,0,21,management,both,Telugu
+1484,female,1,ECE,22,7,1,7,7,1,0,3,cafe_noise,cooler,exam_crammer,2,veg,early_planner,4,low,single,0,0,0,0,12,mechanical,cultural,Hindi
+1485,male,3,EEE,4,9,1,0,8,2,1,5,light_music,cooler,exam_crammer,2,non_veg,group_study,3,medium,single,0,0,1,1,18,robotics,sports,Multilingual
+1486,female,3,MNC,1,7,1,7,8,5,7,5,light_music,fan,regular,4,non_veg,last_minute,3,medium,single,1,0,0,1,11,software,both,English
+1487,male,3,CSE,2,9,1,5,8,9,10,5,light_music,cooler,night_before,3,veg,early_planner,5,high,committed,0,0,0,1,9,software,cultural,Tamil
+1488,female,1,Civil,2,7,1,10,9,3,3,0,cafe_noise,cooler,exam_crammer,0,veg,early_planner,3,medium,single,0,1,1,0,13,robotics,both,Multilingual
+1489,male,1,Civil,0,7,1,10,6,1,3,5,light_music,cooler,regular,5,veg,last_minute,4,low,single,0,0,0,0,15,management,both,Telugu
+1490,male,1,MNC,4,8,1,4,8,6,5,0,cafe_noise,fan,night_before,4,veg,last_minute,5,low,committed,0,0,1,0,19,robotics,cultural,English
+1491,female,1,MNC,3,9,1,0,7,3,5,4,light_music,fan,night_before,3,veg,early_planner,4,low,committed,0,0,1,0,21,ai_ml,cultural,Tamil
+1492,male,3,CSE,1,10,1,1,7,7,6,6,cafe_noise,fan,night_before,3,veg,last_minute,6,high,single,0,0,1,0,17,civil,cultural,Tamil
+1493,male,3,Metallurgy,4,9,0,4,10,7,5,0,light_music,fan,exam_crammer,2,veg,group_study,8,medium,committed,0,0,1,0,22,robotics,both,Tamil
+1494,female,2,Metallurgy,22,9,1,2,10,6,8,0,light_music,cooler,exam_crammer,0,non_veg,group_study,9,medium,committed,0,0,0,0,14,software,sports,Hindi
+1495,male,2,CSE,1,6,1,7,9,9,8,5,light_music,cooler,exam_crammer,4,veg,early_planner,6,low,committed,0,1,0,0,13,electronics,sports,Hindi
+1496,male,1,Metallurgy,1,10,1,0,9,8,9,6,cafe_noise,cooler,night_before,5,veg,group_study,6,high,single,0,0,0,1,11,robotics,none,English
+1497,male,4,Others,1,5,1,6,7,3,3,5,cafe_noise,fan,exam_crammer,3,veg,group_study,3,high,single,0,1,0,0,17,ai_ml,cultural,Telugu
+1498,female,4,ME,1,10,0,5,10,6,5,4,light_music,cooler,regular,3,non_veg,early_planner,0,medium,single,1,0,0,0,9,electronics,sports,English
+1499,male,3,CSE,2,10,0,3,7,9,10,5,cafe_noise,fan,exam_crammer,4,non_veg,last_minute,7,low,committed,0,0,1,0,18,ai_ml,none,Telugu
+1500,female,3,CSE,2,9,1,3,7,9,10,2,silence,fan,exam_crammer,5,non_veg,early_planner,3,low,single,0,0,1,0,17,electronics,none,Multilingual
+1501,male,3,AI,1,10,1,0,10,0,0,8,light_music,fan,night_before,0,veg,group_study,0,high,single,0,0,0,0,14,robotics,cultural,Tamil
+1502,male,2,ECE,3,8,0,2,7,3,4,4,light_music,cooler,exam_crammer,4,veg,early_planner,4,medium,single,0,0,0,1,10,software,none,Tamil
+1503,male,2,ECE,4,7,0,6,7,1,0,1,silence,cooler,regular,2,veg,early_planner,7,high,committed,0,0,0,1,8,electronics,sports,Hindi
+1504,female,3,Others,1,9,0,0,7,8,9,9,cafe_noise,cooler,night_before,2,non_veg,group_study,3,high,single,1,0,0,0,17,mechanical,none,Multilingual
+1505,male,3,MNC,0,5,0,7,10,4,2,9,cafe_noise,cooler,regular,4,non_veg,group_study,7,high,single,0,1,1,1,20,civil,none,Dont Care
+1506,male,3,MNC,4,7,1,8,6,2,2,6,cafe_noise,fan,night_before,1,non_veg,early_planner,7,medium,single,0,1,0,1,8,ai_ml,sports,Multilingual
+1507,female,4,EEE,1,9,1,4,8,3,4,2,light_music,cooler,night_before,1,non_veg,group_study,2,high,single,0,0,0,1,10,electronics,none,Telugu
+1508,male,2,Others,3,8,1,1,10,5,3,0,light_music,fan,exam_crammer,1,non_veg,group_study,8,medium,committed,0,0,0,1,12,ai_ml,none,Multilingual
+1509,female,4,CSE,22,9,1,4,3,9,8,2,light_music,fan,regular,3,non_veg,group_study,2,high,single,0,0,0,0,14,software,both,Hindi
+1510,female,4,Others,23,8,1,3,3,0,0,8,light_music,fan,night_before,1,veg,group_study,0,high,single,1,0,0,0,15,ai_ml,none,Telugu
+1511,male,3,Others,1,7,1,10,10,6,8,4,light_music,fan,exam_crammer,0,non_veg,group_study,1,high,committed,1,0,0,0,16,ai_ml,none,English
+1512,female,3,Others,1,8,1,2,9,7,5,6,cafe_noise,fan,night_before,2,non_veg,group_study,5,high,committed,0,0,0,0,8,mechanical,both,Telugu
+1513,male,1,ECE,4,8,1,0,7,6,8,2,silence,fan,night_before,4,non_veg,last_minute,9,medium,committed,0,0,0,1,17,ai_ml,both,English
+1514,female,1,Others,22,7,1,10,1,6,6,3,cafe_noise,fan,night_before,5,non_veg,early_planner,1,medium,committed,0,0,0,0,13,electronics,both,Dont Care
+1515,female,4,ME,3,6,1,8,6,8,6,0,cafe_noise,cooler,night_before,4,veg,group_study,5,high,committed,0,1,1,1,10,ai_ml,cultural,Telugu
+1516,male,2,MNC,2,9,1,1,8,3,1,2,light_music,cooler,night_before,2,veg,early_planner,0,medium,single,0,0,0,1,11,robotics,cultural,Tamil
+1517,female,3,EEE,2,6,0,10,7,6,6,6,silence,fan,night_before,3,non_veg,last_minute,10,high,committed,0,1,0,1,12,ai_ml,sports,Dont Care
+1518,female,3,ME,1,9,0,1,7,8,7,3,silence,cooler,exam_crammer,2,veg,group_study,0,high,committed,0,0,0,1,8,robotics,none,English
+1519,female,4,EEE,3,9,1,0,8,4,2,1,cafe_noise,cooler,night_before,1,veg,early_planner,4,high,committed,0,0,1,0,17,civil,sports,Hindi
+1520,female,1,AI,0,10,1,2,7,1,1,4,silence,cooler,regular,7,veg,group_study,9,high,single,0,0,0,0,14,ai_ml,cultural,Dont Care
+1521,female,2,EEE,3,8,1,0,6,4,5,4,cafe_noise,cooler,exam_crammer,2,veg,group_study,10,high,single,0,0,1,0,18,management,none,Dont Care
+1522,male,1,MNC,23,8,1,4,4,3,5,1,cafe_noise,fan,regular,5,veg,group_study,8,medium,single,0,0,0,0,11,civil,none,Dont Care
+1523,female,1,MNC,0,10,1,3,10,7,5,10,cafe_noise,cooler,night_before,0,veg,group_study,7,high,committed,0,0,0,0,16,management,both,English
+1524,male,1,Others,22,10,1,5,3,4,5,5,cafe_noise,fan,regular,6,veg,group_study,2,medium,single,0,0,0,0,13,ai_ml,cultural,English
+1525,female,1,Civil,4,7,0,7,10,8,6,9,light_music,fan,night_before,1,non_veg,group_study,2,high,committed,0,0,0,1,11,electronics,none,Telugu
+1526,male,3,AI,1,9,1,3,10,8,7,3,silence,cooler,night_before,1,veg,group_study,0,medium,committed,0,0,1,0,14,management,both,Tamil
+1527,male,3,CSE,1,7,1,7,8,2,2,0,light_music,cooler,exam_crammer,2,non_veg,last_minute,2,low,single,0,0,0,0,8,robotics,none,Dont Care
+1528,female,1,Metallurgy,22,8,1,2,6,9,7,2,light_music,fan,exam_crammer,3,veg,last_minute,10,high,single,0,0,0,0,13,civil,cultural,Telugu
+1529,female,2,EEE,1,7,1,8,9,5,5,8,light_music,fan,night_before,4,veg,group_study,0,medium,single,0,0,0,0,11,civil,sports,Telugu
+1530,female,4,Civil,1,7,1,6,7,5,3,9,cafe_noise,cooler,exam_crammer,5,veg,group_study,7,high,committed,1,0,0,0,12,robotics,sports,Tamil
+1531,male,2,Others,3,10,0,4,7,3,2,6,cafe_noise,cooler,regular,2,non_veg,last_minute,0,low,single,0,0,0,1,16,mechanical,none,Telugu
+1532,female,2,ECE,23,5,1,7,8,10,9,5,light_music,fan,exam_crammer,4,veg,last_minute,4,high,single,0,1,0,0,10,ai_ml,both,Tamil
+1533,male,2,CSE,0,10,1,5,9,9,10,0,light_music,cooler,exam_crammer,5,non_veg,last_minute,8,high,single,0,0,1,1,12,ai_ml,both,Hindi
+1534,male,1,Civil,0,7,1,10,8,2,1,8,silence,fan,regular,10,veg,group_study,6,medium,single,0,0,0,0,17,electronics,both,Tamil
+1535,male,3,ECE,4,7,1,6,8,0,0,8,light_music,fan,exam_crammer,1,veg,early_planner,3,medium,single,0,0,0,1,15,mechanical,cultural,Multilingual
+1536,female,2,AI,0,10,1,5,9,6,5,0,cafe_noise,fan,night_before,4,non_veg,early_planner,10,medium,committed,0,0,1,0,13,mechanical,sports,Tamil
+1537,female,1,Others,22,10,1,1,4,4,2,5,light_music,fan,regular,6,veg,early_planner,8,medium,committed,0,0,0,0,12,management,sports,Tamil
+1538,male,2,CSE,3,10,1,0,6,9,8,6,silence,cooler,night_before,1,veg,early_planner,8,high,single,0,0,1,0,19,electronics,none,Multilingual
+1539,male,2,CSE,2,7,1,9,6,6,6,1,silence,fan,regular,5,veg,group_study,1,high,committed,0,0,0,1,13,civil,sports,Tamil
+1540,female,1,CSE,0,7,0,7,7,0,0,9,light_music,fan,night_before,2,non_veg,early_planner,9,medium,committed,0,1,1,0,20,robotics,both,English
+1541,male,3,AI,23,8,1,2,1,7,8,7,silence,cooler,night_before,1,veg,last_minute,9,high,committed,0,0,0,0,9,civil,cultural,Telugu
+1542,female,3,EEE,2,9,1,2,8,2,3,7,silence,cooler,exam_crammer,5,veg,last_minute,10,high,single,1,0,1,1,13,software,both,Telugu
+1543,male,4,AI,1,7,1,8,10,6,7,5,cafe_noise,fan,night_before,1,veg,early_planner,5,low,committed,0,0,1,1,12,electronics,both,Hindi
+1544,female,1,Metallurgy,0,5,1,9,9,2,0,8,silence,cooler,exam_crammer,3,non_veg,last_minute,3,low,single,0,1,0,0,17,robotics,sports,Hindi
+1545,male,4,MNC,3,10,1,4,9,2,3,2,silence,cooler,regular,5,veg,group_study,7,high,committed,1,0,1,1,12,civil,cultural,Multilingual
+1546,female,4,Others,22,9,1,5,3,9,8,1,light_music,fan,night_before,2,non_veg,early_planner,10,medium,single,1,0,0,0,8,civil,cultural,English
+1547,male,4,AI,0,8,1,2,10,8,6,1,cafe_noise,cooler,night_before,1,veg,early_planner,6,medium,committed,0,0,0,0,16,mechanical,both,Hindi
+1548,female,3,ECE,0,7,1,6,9,1,0,5,silence,cooler,regular,2,veg,group_study,6,high,committed,0,1,0,0,8,electronics,none,Telugu
+1549,female,1,Metallurgy,2,6,1,8,9,3,1,6,light_music,cooler,regular,7,non_veg,last_minute,10,high,single,0,1,0,1,13,software,sports,Hindi
+1550,male,4,MNC,4,7,1,7,10,5,7,5,light_music,cooler,night_before,3,non_veg,group_study,9,high,single,0,0,0,1,12,ai_ml,none,Hindi
+1551,male,1,EEE,0,5,1,7,10,2,2,10,light_music,cooler,regular,6,non_veg,group_study,8,high,committed,0,1,0,0,14,electronics,both,Tamil
+1552,female,1,ECE,23,6,1,10,10,9,10,2,light_music,fan,exam_crammer,2,non_veg,last_minute,4,low,single,0,1,0,0,8,software,sports,Hindi
+1553,male,3,Others,4,9,0,3,7,9,10,4,light_music,cooler,regular,4,non_veg,group_study,5,high,single,0,0,1,0,12,software,none,Multilingual
+1554,female,4,ECE,2,10,1,2,6,6,8,7,light_music,fan,regular,4,veg,last_minute,0,low,single,0,0,1,1,11,electronics,none,Telugu
+1555,male,4,MNC,3,9,1,2,8,6,6,5,silence,fan,night_before,1,veg,last_minute,5,medium,single,0,0,0,1,8,robotics,none,Multilingual
+1556,female,1,ECE,1,7,1,9,7,4,6,1,cafe_noise,cooler,exam_crammer,2,non_veg,group_study,1,medium,committed,0,1,0,0,10,electronics,sports,Multilingual
+1557,female,2,ME,2,9,1,4,6,2,3,6,cafe_noise,cooler,regular,4,veg,last_minute,5,high,single,0,0,0,1,13,civil,none,Dont Care
+1558,female,3,Civil,3,6,1,8,9,1,0,7,light_music,cooler,exam_crammer,1,veg,group_study,8,medium,committed,0,1,0,1,9,management,cultural,English
+1559,female,3,EEE,23,10,0,2,9,3,1,3,light_music,cooler,exam_crammer,0,non_veg,last_minute,7,medium,committed,1,0,0,0,14,mechanical,both,Dont Care
+1560,female,3,MNC,0,7,1,6,10,3,2,0,cafe_noise,cooler,exam_crammer,0,non_veg,early_planner,8,medium,single,0,0,0,0,8,civil,sports,Dont Care
+1561,female,3,ECE,22,9,0,4,5,10,10,1,silence,cooler,night_before,2,non_veg,last_minute,9,medium,single,0,0,0,0,12,software,cultural,Tamil
+1562,male,4,Civil,0,8,1,4,9,7,7,3,light_music,cooler,regular,4,veg,last_minute,7,medium,single,0,0,1,0,10,software,none,Multilingual
+1563,male,4,Civil,0,7,1,8,9,7,5,6,cafe_noise,cooler,night_before,4,non_veg,group_study,2,medium,single,0,1,0,0,17,ai_ml,both,English
+1564,male,2,ECE,1,5,1,10,8,4,6,1,cafe_noise,cooler,regular,3,veg,last_minute,7,high,committed,0,1,0,0,11,software,none,Telugu
+1565,female,3,Others,0,5,1,7,9,5,4,5,light_music,cooler,regular,5,non_veg,early_planner,5,medium,committed,1,1,0,1,14,management,cultural,Telugu
+1566,female,3,ME,22,8,1,0,3,7,6,1,cafe_noise,cooler,night_before,3,non_veg,early_planner,5,high,single,1,0,0,0,9,ai_ml,none,English
+1567,female,1,AI,23,10,0,1,6,0,0,6,silence,cooler,exam_crammer,5,non_veg,last_minute,5,high,committed,0,0,0,0,11,software,sports,Multilingual
+1568,female,4,ME,0,9,1,2,6,4,5,1,cafe_noise,fan,exam_crammer,1,non_veg,last_minute,2,medium,single,0,0,0,0,9,software,cultural,Multilingual
+1569,male,3,ECE,0,7,0,6,10,3,2,2,light_music,cooler,regular,3,veg,early_planner,9,medium,committed,0,0,0,0,9,electronics,sports,Tamil
+1570,male,2,EEE,23,10,0,0,2,3,1,8,light_music,fan,night_before,5,veg,group_study,0,medium,committed,0,0,0,0,16,electronics,both,Tamil
+1571,female,2,AI,4,9,0,0,10,10,10,3,cafe_noise,fan,exam_crammer,5,veg,early_planner,3,low,committed,0,0,1,0,19,mechanical,sports,Dont Care
+1572,male,4,MNC,2,8,1,4,10,1,0,4,cafe_noise,cooler,exam_crammer,2,non_veg,early_planner,9,medium,single,0,0,1,0,17,civil,sports,Telugu
+1573,male,2,ME,0,7,1,8,8,9,7,8,light_music,fan,regular,5,veg,last_minute,5,medium,single,0,1,0,0,13,robotics,none,Tamil
+1574,female,2,ECE,23,10,1,1,0,0,1,6,silence,cooler,regular,3,veg,last_minute,10,high,committed,0,0,0,0,9,mechanical,none,English
+1575,male,4,ME,1,10,1,4,9,5,6,7,cafe_noise,cooler,night_before,5,veg,early_planner,9,high,single,0,0,0,0,16,software,cultural,Telugu
+1576,female,3,AI,2,8,1,1,10,6,7,10,silence,fan,regular,9,non_veg,group_study,1,medium,single,0,0,0,1,17,mechanical,both,Multilingual
+1577,male,3,Metallurgy,23,8,1,4,6,4,2,2,silence,cooler,exam_crammer,3,veg,early_planner,6,low,committed,0,0,0,0,9,electronics,cultural,Telugu
+1578,female,2,ME,0,8,1,4,10,7,6,10,light_music,fan,exam_crammer,0,non_veg,early_planner,6,high,single,1,0,0,0,11,civil,both,Hindi
+1579,female,2,MNC,4,5,0,9,9,8,8,10,light_music,fan,exam_crammer,4,non_veg,group_study,10,medium,single,0,1,0,1,11,software,both,Telugu
+1580,female,3,MNC,22,5,0,10,8,10,10,3,light_music,cooler,exam_crammer,1,veg,early_planner,3,medium,committed,0,1,0,0,12,software,sports,Tamil
+1581,female,4,CSE,22,6,1,9,5,10,8,6,silence,fan,night_before,4,veg,early_planner,3,low,committed,0,1,0,0,10,mechanical,none,English
+1582,male,2,ME,3,5,1,6,9,1,0,3,light_music,fan,night_before,5,non_veg,last_minute,0,low,committed,0,1,1,1,19,civil,both,Multilingual
+1583,female,1,Others,4,8,1,2,10,10,9,1,light_music,cooler,regular,5,non_veg,group_study,1,medium,committed,0,0,1,0,12,management,none,Multilingual
+1584,female,4,Civil,0,8,1,3,9,3,4,9,silence,fan,regular,2,non_veg,last_minute,8,high,single,1,0,1,0,11,ai_ml,both,Tamil
+1585,female,2,Civil,4,9,1,0,6,10,8,5,silence,cooler,regular,7,veg,last_minute,9,high,single,0,0,0,1,17,management,none,Tamil
+1586,male,2,Civil,0,10,1,2,8,8,10,8,silence,cooler,night_before,2,non_veg,group_study,7,high,committed,0,0,1,1,17,robotics,cultural,Tamil
+1587,female,1,Metallurgy,1,9,1,2,10,4,5,1,silence,cooler,exam_crammer,0,non_veg,group_study,7,high,committed,0,0,0,1,10,civil,none,Hindi
+1588,male,1,CSE,4,7,1,9,6,2,0,0,cafe_noise,cooler,regular,6,non_veg,early_planner,8,high,single,0,0,1,0,14,mechanical,sports,English
+1589,female,3,Metallurgy,23,7,1,10,10,5,7,7,light_music,fan,exam_crammer,1,veg,last_minute,6,medium,single,0,0,0,0,12,management,both,Hindi
+1590,male,4,ME,2,9,1,1,7,2,1,0,cafe_noise,cooler,regular,4,non_veg,group_study,8,high,single,0,0,1,0,17,mechanical,sports,Tamil
+1591,male,4,ME,0,10,0,4,10,4,6,0,silence,fan,regular,8,non_veg,last_minute,9,medium,committed,1,0,0,0,14,robotics,both,English
+1592,female,3,ME,0,8,1,2,10,2,0,2,silence,fan,regular,8,non_veg,last_minute,1,low,committed,0,0,1,0,19,software,sports,Tamil
+1593,male,4,EEE,3,7,1,8,10,5,5,4,silence,cooler,regular,5,non_veg,group_study,5,medium,committed,0,0,1,0,18,software,both,English
+1594,female,4,Civil,3,7,1,7,10,9,7,8,silence,cooler,regular,5,non_veg,early_planner,2,medium,committed,1,0,0,1,15,ai_ml,none,Multilingual
+1595,female,4,EEE,23,9,1,3,6,4,4,10,silence,cooler,exam_crammer,2,veg,last_minute,10,high,single,0,0,0,0,11,mechanical,both,Hindi
+1596,female,4,CSE,4,10,1,0,10,8,7,9,light_music,fan,regular,8,veg,group_study,5,medium,committed,1,0,1,0,14,robotics,sports,Dont Care
+1597,male,4,Metallurgy,0,9,1,0,10,2,1,1,cafe_noise,cooler,exam_crammer,1,non_veg,early_planner,2,low,committed,0,0,0,0,15,mechanical,sports,Tamil
+1598,male,1,Civil,2,7,1,6,6,5,6,0,cafe_noise,fan,night_before,4,non_veg,last_minute,7,medium,single,0,0,1,0,19,electronics,both,Tamil
+1599,female,4,EEE,23,5,1,9,3,7,8,0,light_music,cooler,regular,4,non_veg,group_study,10,high,committed,0,1,0,0,12,mechanical,both,Telugu
+1600,female,1,EEE,22,8,1,3,9,6,6,7,light_music,cooler,exam_crammer,4,non_veg,last_minute,3,medium,single,0,0,0,0,13,mechanical,cultural,Dont Care
+1601,male,4,ECE,22,7,1,8,3,5,5,9,light_music,fan,night_before,2,non_veg,group_study,9,high,committed,0,0,0,0,8,electronics,cultural,Multilingual
+1602,female,3,EEE,1,8,1,3,9,1,0,9,cafe_noise,fan,night_before,2,non_veg,group_study,5,high,single,0,0,0,0,13,electronics,none,Tamil
+1603,female,2,Others,3,10,0,4,10,6,8,9,cafe_noise,cooler,night_before,0,veg,last_minute,8,high,single,0,0,1,1,17,management,none,Hindi
+1604,female,1,Others,4,6,1,6,8,7,7,1,silence,cooler,exam_crammer,4,non_veg,last_minute,1,medium,single,0,1,0,1,17,robotics,none,Multilingual
+1605,male,4,Metallurgy,22,8,0,3,5,0,0,8,cafe_noise,cooler,regular,4,non_veg,group_study,1,high,committed,1,0,0,0,10,management,none,Tamil
+1606,male,3,Others,1,9,0,3,7,8,10,8,cafe_noise,fan,regular,7,veg,early_planner,6,high,committed,1,0,0,0,13,software,none,Hindi
+1607,male,2,Metallurgy,2,7,1,10,10,3,4,1,light_music,cooler,exam_crammer,4,veg,last_minute,1,medium,committed,1,0,0,1,14,ai_ml,both,Telugu
+1608,female,1,Metallurgy,3,7,0,6,6,7,8,2,cafe_noise,cooler,regular,5,veg,group_study,1,high,committed,1,0,1,1,20,management,cultural,Telugu
+1609,female,2,CSE,3,9,0,4,8,9,9,1,silence,fan,exam_crammer,1,veg,group_study,3,high,committed,0,0,1,0,15,electronics,both,Hindi
+1610,female,3,ECE,1,7,0,10,9,6,7,5,cafe_noise,cooler,regular,5,non_veg,early_planner,8,medium,committed,1,0,0,1,11,software,cultural,Multilingual
+1611,male,1,ME,2,10,1,0,6,9,10,6,light_music,fan,night_before,0,veg,early_planner,7,low,single,0,0,1,0,19,robotics,cultural,Hindi
+1612,female,2,MNC,3,8,1,2,7,6,7,5,light_music,fan,regular,6,veg,early_planner,1,medium,committed,0,0,1,1,21,civil,sports,Dont Care
+1613,female,4,Metallurgy,1,8,0,2,10,1,0,2,silence,cooler,exam_crammer,2,veg,last_minute,7,high,committed,1,0,0,1,8,mechanical,sports,Hindi
+1614,female,1,AI,4,10,1,4,7,0,0,2,silence,cooler,exam_crammer,1,non_veg,group_study,3,medium,single,0,0,1,0,18,robotics,cultural,Telugu
+1615,female,2,ME,0,10,1,1,9,3,3,1,cafe_noise,fan,night_before,0,non_veg,group_study,1,medium,single,0,0,0,1,9,robotics,both,Telugu
+1616,male,3,Civil,23,9,1,0,8,1,1,1,silence,fan,exam_crammer,3,non_veg,group_study,10,high,committed,0,0,0,0,9,electronics,cultural,Telugu
+1617,male,3,Others,3,7,1,7,6,7,6,10,silence,cooler,regular,7,veg,early_planner,9,high,single,0,0,1,1,17,ai_ml,none,Dont Care
+1618,female,1,MNC,22,7,1,8,0,9,7,4,light_music,fan,regular,5,non_veg,group_study,6,high,committed,0,0,0,0,15,management,both,Tamil
+1619,male,2,AI,2,9,1,5,9,6,4,10,light_music,fan,night_before,2,veg,last_minute,5,medium,single,1,0,1,1,21,electronics,both,Dont Care
+1620,male,1,ME,3,7,0,10,10,7,6,10,cafe_noise,cooler,exam_crammer,2,veg,early_planner,9,high,committed,0,1,1,0,18,mechanical,cultural,Tamil
+1621,female,1,CSE,0,7,1,6,8,10,10,7,cafe_noise,fan,night_before,2,veg,early_planner,4,medium,single,0,0,0,0,8,electronics,none,Dont Care
+1622,female,2,Civil,0,8,0,0,6,5,7,5,cafe_noise,fan,regular,5,veg,early_planner,10,high,single,0,0,1,0,15,mechanical,cultural,English
+1623,male,2,MNC,2,7,0,7,7,0,0,8,cafe_noise,fan,night_before,0,non_veg,early_planner,0,low,committed,0,0,0,1,10,electronics,none,Tamil
+1624,female,4,ECE,1,7,1,8,9,8,10,10,light_music,fan,exam_crammer,5,non_veg,last_minute,1,medium,committed,0,0,0,1,12,civil,both,Multilingual
+1625,male,2,CSE,0,8,1,3,6,5,7,4,cafe_noise,fan,night_before,0,non_veg,group_study,7,high,single,0,0,0,1,11,ai_ml,cultural,Multilingual
+1626,female,3,AI,0,7,0,6,10,9,10,9,cafe_noise,fan,exam_crammer,4,non_veg,last_minute,0,medium,single,1,0,1,1,14,civil,none,Telugu
+1627,male,1,MNC,23,9,1,5,7,0,0,3,silence,cooler,exam_crammer,2,veg,group_study,2,high,single,0,0,0,0,13,software,sports,Dont Care
+1628,female,1,CSE,23,6,0,8,5,0,2,8,cafe_noise,cooler,regular,3,veg,last_minute,1,medium,single,0,1,0,0,9,ai_ml,both,Hindi
+1629,male,3,Civil,4,7,1,6,10,7,7,9,silence,cooler,regular,4,veg,early_planner,4,medium,committed,1,0,1,0,11,management,both,Telugu
+1630,male,2,ECE,3,10,1,0,8,5,3,10,light_music,cooler,regular,8,veg,early_planner,3,medium,single,0,0,1,0,17,electronics,sports,Hindi
+1631,male,3,CSE,2,6,1,9,8,7,6,4,cafe_noise,fan,exam_crammer,1,veg,last_minute,6,low,single,0,1,1,0,16,robotics,none,Dont Care
+1632,female,3,EEE,1,10,1,4,7,7,9,0,silence,cooler,night_before,0,non_veg,last_minute,4,low,committed,0,0,0,0,14,software,both,Telugu
+1633,male,4,ECE,22,6,1,8,9,10,10,4,cafe_noise,fan,exam_crammer,1,non_veg,group_study,7,high,committed,0,1,0,0,14,robotics,none,Telugu
+1634,male,3,AI,23,8,1,4,1,7,5,4,silence,cooler,regular,4,veg,last_minute,3,medium,committed,1,0,0,0,13,civil,sports,Multilingual
+1635,female,1,Civil,0,6,0,8,10,9,8,4,cafe_noise,fan,regular,4,veg,last_minute,5,low,committed,0,1,1,0,13,management,cultural,Hindi
+1636,female,3,Others,0,9,1,1,8,6,6,1,light_music,cooler,night_before,0,non_veg,group_study,3,high,committed,0,0,0,0,11,ai_ml,both,English
+1637,male,1,Others,2,9,0,1,8,6,5,5,light_music,fan,regular,3,non_veg,group_study,1,high,committed,0,0,0,1,9,management,both,English
+1638,male,1,Others,2,5,1,9,10,9,10,4,silence,cooler,regular,5,veg,group_study,0,medium,single,0,1,1,1,16,software,none,Telugu
+1639,female,1,MNC,4,7,1,6,6,3,4,1,silence,cooler,regular,2,non_veg,last_minute,0,medium,single,0,0,0,1,8,civil,both,Dont Care
+1640,female,2,AI,1,10,1,0,10,8,10,9,light_music,cooler,night_before,5,non_veg,group_study,7,high,single,0,0,1,0,15,electronics,cultural,Telugu
+1641,female,4,Civil,3,10,0,4,7,1,0,7,cafe_noise,cooler,exam_crammer,1,veg,early_planner,3,medium,committed,0,0,1,0,19,robotics,sports,Multilingual
+1642,female,1,ECE,2,9,1,1,9,10,8,5,silence,cooler,regular,4,veg,early_planner,4,high,committed,0,0,1,1,19,electronics,both,Hindi
+1643,female,1,MNC,1,8,1,1,9,8,9,10,light_music,fan,night_before,2,non_veg,early_planner,10,medium,single,1,0,0,0,10,mechanical,sports,Telugu
+1644,male,2,AI,23,7,0,9,0,9,10,9,silence,cooler,regular,2,non_veg,last_minute,7,medium,single,0,0,0,0,8,management,none,Dont Care
+1645,female,1,EEE,3,10,1,1,7,2,1,10,light_music,fan,night_before,5,veg,early_planner,6,low,committed,0,0,1,0,17,software,cultural,English
+1646,male,3,Civil,4,9,1,2,7,1,3,2,light_music,cooler,regular,6,non_veg,last_minute,7,low,committed,1,0,1,0,20,robotics,both,Hindi
+1647,male,3,Others,2,7,1,9,8,3,2,8,silence,cooler,night_before,1,non_veg,last_minute,7,low,single,0,0,1,0,14,ai_ml,sports,Telugu
+1648,male,4,CSE,0,9,0,5,7,4,5,10,silence,cooler,regular,4,non_veg,early_planner,5,medium,single,0,0,0,0,15,ai_ml,cultural,Hindi
+1649,female,1,Civil,4,8,1,2,7,1,0,10,light_music,fan,exam_crammer,1,veg,group_study,9,medium,single,0,0,1,0,13,ai_ml,sports,Multilingual
+1650,male,2,Metallurgy,3,8,1,3,7,0,1,3,cafe_noise,cooler,regular,5,non_veg,last_minute,1,low,single,0,0,1,0,20,civil,none,English
+1651,male,3,AI,1,9,0,1,8,9,10,2,light_music,cooler,night_before,2,non_veg,early_planner,5,high,single,0,0,1,0,22,ai_ml,cultural,Dont Care
+1652,female,2,ME,2,7,0,9,9,10,8,6,cafe_noise,fan,regular,6,veg,last_minute,0,medium,committed,0,0,1,1,17,robotics,cultural,Hindi
+1653,male,2,EEE,2,9,1,3,10,4,2,7,cafe_noise,fan,exam_crammer,2,veg,group_study,0,medium,single,0,0,1,0,14,management,none,English
+1654,male,3,Civil,22,9,1,2,4,8,7,6,cafe_noise,fan,regular,5,non_veg,group_study,10,medium,single,0,0,0,0,13,management,none,Telugu
+1655,female,2,ME,0,10,1,2,7,4,5,0,silence,fan,night_before,1,veg,early_planner,2,medium,committed,0,0,0,1,11,management,both,Dont Care
+1656,male,3,Metallurgy,1,7,1,7,10,10,8,0,light_music,cooler,night_before,2,veg,last_minute,2,low,single,0,1,0,0,16,civil,none,Dont Care
+1657,male,2,ECE,22,8,0,0,9,9,10,4,light_music,fan,exam_crammer,3,non_veg,last_minute,10,medium,committed,0,0,0,0,17,mechanical,none,Tamil
+1658,male,3,CSE,1,9,1,3,7,8,10,7,cafe_noise,fan,night_before,2,veg,last_minute,4,high,committed,0,0,0,0,8,ai_ml,sports,Hindi
+1659,female,1,ME,23,7,1,7,5,9,8,9,cafe_noise,cooler,regular,7,non_veg,last_minute,0,medium,single,0,0,0,0,17,management,cultural,English
+1660,female,4,AI,0,7,1,6,9,5,6,10,cafe_noise,fan,regular,3,non_veg,early_planner,9,high,single,1,1,0,0,9,ai_ml,sports,Hindi
+1661,female,3,Others,3,6,1,6,6,2,1,2,light_music,fan,regular,4,veg,group_study,5,medium,committed,0,1,0,1,10,civil,none,Telugu
+1662,male,3,Metallurgy,22,10,1,4,5,3,4,7,cafe_noise,fan,night_before,4,non_veg,early_planner,6,high,committed,0,0,0,0,10,ai_ml,both,Telugu
+1663,male,4,CSE,4,10,1,5,8,3,4,2,light_music,cooler,regular,5,non_veg,last_minute,9,medium,committed,0,0,1,0,17,mechanical,sports,Dont Care
+1664,female,3,EEE,2,6,1,9,10,0,2,3,light_music,fan,regular,5,non_veg,last_minute,10,medium,single,1,1,1,0,15,civil,sports,Dont Care
+1665,male,3,Others,1,8,1,4,7,2,1,9,silence,fan,regular,3,non_veg,group_study,2,medium,single,1,0,0,0,9,civil,cultural,English
+1666,male,2,Civil,2,9,1,0,7,2,2,6,cafe_noise,fan,exam_crammer,3,non_veg,last_minute,3,low,single,0,0,1,0,22,software,cultural,Multilingual
+1667,female,4,ME,1,10,1,4,10,0,1,2,cafe_noise,cooler,night_before,1,veg,early_planner,9,high,single,0,0,0,0,13,civil,cultural,Hindi
+1668,female,1,CSE,1,10,0,0,6,8,9,3,cafe_noise,cooler,night_before,2,veg,early_planner,10,medium,single,0,0,0,0,10,ai_ml,both,Hindi
+1669,male,3,MNC,1,6,1,9,10,10,8,7,silence,fan,night_before,1,non_veg,group_study,9,medium,committed,1,1,0,0,9,civil,both,Telugu
+1670,male,4,ECE,22,7,1,6,9,0,0,3,cafe_noise,cooler,exam_crammer,2,non_veg,early_planner,9,medium,single,0,1,0,0,8,ai_ml,none,Hindi
+1671,male,2,ECE,0,10,0,1,9,8,8,8,light_music,fan,night_before,4,veg,early_planner,9,high,single,0,0,1,0,17,ai_ml,none,English
+1672,female,1,Metallurgy,3,7,1,8,8,0,2,3,cafe_noise,cooler,exam_crammer,2,non_veg,early_planner,9,medium,committed,0,0,1,1,21,management,cultural,Tamil
+1673,female,4,EEE,1,5,1,9,7,1,1,3,light_music,cooler,exam_crammer,3,non_veg,early_planner,2,medium,single,0,1,0,0,9,civil,sports,Dont Care
+1674,female,1,Metallurgy,23,9,1,4,0,1,3,4,light_music,fan,night_before,1,non_veg,last_minute,0,low,single,1,0,0,0,17,software,cultural,Telugu
+1675,female,1,MNC,22,9,0,5,3,5,5,0,light_music,fan,regular,3,veg,early_planner,7,high,single,0,0,0,0,13,ai_ml,none,Dont Care
+1676,male,1,AI,1,7,1,9,10,6,6,6,light_music,fan,regular,9,non_veg,group_study,9,medium,committed,0,1,0,1,16,management,sports,Dont Care
+1677,female,3,EEE,1,10,0,3,6,10,9,8,cafe_noise,cooler,night_before,1,veg,group_study,9,medium,committed,0,0,0,0,14,software,none,Dont Care
+1678,female,3,AI,0,9,1,0,10,0,0,8,silence,fan,night_before,3,non_veg,early_planner,1,low,single,0,0,0,0,9,software,both,Tamil
+1679,female,2,EEE,2,10,1,4,7,2,2,0,silence,cooler,exam_crammer,4,non_veg,group_study,0,medium,single,0,0,1,1,15,civil,cultural,Hindi
+1680,female,2,EEE,0,7,0,7,9,1,2,5,light_music,cooler,night_before,5,veg,early_planner,7,medium,single,0,1,1,1,14,electronics,cultural,Multilingual
+1681,female,4,MNC,0,8,0,0,9,7,8,2,cafe_noise,fan,exam_crammer,6,veg,group_study,6,medium,committed,0,0,0,0,17,management,sports,Dont Care
+1682,male,2,Civil,4,9,1,0,9,8,9,3,silence,cooler,night_before,0,non_veg,group_study,6,medium,committed,0,0,1,0,17,electronics,cultural,English
+1683,male,1,MNC,3,9,0,5,7,1,0,7,cafe_noise,cooler,regular,4,non_veg,early_planner,3,low,single,0,0,0,1,10,ai_ml,none,Dont Care
+1684,female,1,EEE,4,5,1,10,6,1,1,3,silence,fan,regular,5,non_veg,early_planner,10,high,single,0,1,0,1,17,robotics,none,Dont Care
+1685,male,3,CSE,4,5,1,10,6,9,10,7,light_music,cooler,night_before,1,veg,last_minute,8,medium,single,0,1,0,1,10,electronics,both,Hindi
+1686,female,1,AI,0,8,1,5,8,8,10,3,light_music,cooler,exam_crammer,1,non_veg,early_planner,5,medium,single,0,0,0,0,17,management,none,English
+1687,female,4,MNC,3,10,1,1,10,3,2,8,light_music,fan,regular,5,veg,early_planner,1,low,committed,0,0,1,0,15,civil,sports,Hindi
+1688,male,1,Civil,22,8,1,5,6,4,2,5,silence,fan,exam_crammer,2,non_veg,last_minute,0,low,committed,0,0,0,0,17,management,none,Dont Care
+1689,male,1,ME,3,6,1,9,7,10,10,0,cafe_noise,fan,night_before,0,non_veg,early_planner,0,medium,single,0,1,0,1,8,civil,both,Hindi
+1690,female,4,Metallurgy,1,7,1,10,7,8,9,9,light_music,cooler,night_before,6,non_veg,early_planner,8,high,committed,0,0,0,0,17,electronics,both,Hindi
+1691,female,2,EEE,22,7,1,10,2,5,3,1,cafe_noise,cooler,regular,9,non_veg,last_minute,3,low,committed,0,1,0,0,16,robotics,cultural,Telugu
+1692,female,2,ME,1,9,0,4,8,9,7,6,cafe_noise,cooler,night_before,2,non_veg,early_planner,4,medium,single,0,0,1,1,19,mechanical,sports,Tamil
+1693,male,4,ECE,0,5,0,6,7,8,8,9,light_music,fan,regular,5,non_veg,early_planner,2,medium,single,0,1,0,0,11,ai_ml,none,Multilingual
+1694,female,3,Others,1,6,0,9,9,8,7,6,silence,cooler,exam_crammer,0,non_veg,last_minute,3,low,single,0,1,0,1,11,management,both,Tamil
+1695,female,1,Civil,0,7,1,7,7,6,5,2,light_music,cooler,regular,7,veg,last_minute,7,high,single,0,0,0,0,14,mechanical,none,Tamil
+1696,female,4,Others,22,7,1,9,4,9,8,0,light_music,cooler,regular,2,non_veg,group_study,3,medium,committed,1,1,0,0,15,mechanical,both,English
+1697,male,1,Civil,1,9,1,1,9,8,9,7,silence,fan,exam_crammer,4,non_veg,early_planner,8,high,single,0,0,0,0,15,software,cultural,Telugu
+1698,female,3,CSE,3,7,0,7,10,4,5,9,cafe_noise,fan,regular,4,non_veg,group_study,8,medium,single,0,0,1,1,10,software,both,Telugu
+1699,female,1,Metallurgy,1,9,1,2,10,4,4,10,silence,fan,regular,6,non_veg,group_study,5,medium,single,0,0,0,0,12,ai_ml,cultural,Hindi
+1700,male,4,ME,3,7,0,9,6,7,6,10,silence,cooler,night_before,1,veg,last_minute,1,medium,single,0,0,1,0,13,robotics,sports,Tamil
+1701,female,1,AI,3,9,0,3,10,9,9,9,light_music,cooler,exam_crammer,1,veg,early_planner,9,high,committed,0,0,1,1,17,software,none,Multilingual
+1702,female,2,Civil,2,10,0,5,10,3,2,6,silence,fan,regular,8,non_veg,early_planner,10,medium,single,0,0,1,0,14,management,none,English
+1703,male,3,AI,23,10,1,2,7,8,6,9,silence,fan,exam_crammer,4,non_veg,last_minute,6,medium,single,0,0,0,0,11,management,cultural,Telugu
+1704,female,3,Metallurgy,1,7,1,6,10,6,8,7,silence,cooler,exam_crammer,2,veg,group_study,8,medium,committed,1,0,0,0,9,electronics,sports,Hindi
+1705,male,3,EEE,22,10,1,2,2,6,8,0,cafe_noise,fan,regular,3,veg,last_minute,5,high,single,0,0,0,0,16,management,cultural,Multilingual
+1706,male,4,ECE,1,9,1,4,10,2,1,2,cafe_noise,cooler,night_before,3,veg,early_planner,2,low,single,0,0,1,0,17,ai_ml,both,Tamil
+1707,female,3,ME,22,7,1,6,10,3,3,1,light_music,fan,exam_crammer,3,non_veg,last_minute,6,medium,single,1,0,0,0,9,civil,cultural,Multilingual
+1708,female,2,Metallurgy,1,8,1,3,10,6,7,0,light_music,fan,regular,3,veg,early_planner,4,high,committed,0,0,0,0,15,mechanical,sports,Telugu
+1709,female,4,Metallurgy,23,7,0,7,10,10,9,4,cafe_noise,fan,exam_crammer,3,veg,group_study,0,medium,single,0,0,0,0,11,management,both,English
+1710,female,2,CSE,1,8,1,4,9,10,9,2,silence,cooler,night_before,2,non_veg,early_planner,2,medium,single,0,0,0,0,16,ai_ml,none,Tamil
+1711,male,1,Others,0,8,1,5,7,4,5,9,light_music,fan,night_before,2,non_veg,group_study,4,high,single,0,0,0,0,11,civil,none,English
+1712,female,1,ECE,22,6,1,10,4,2,1,7,light_music,cooler,night_before,3,non_veg,group_study,6,medium,committed,0,1,0,0,9,civil,none,Dont Care
+1713,male,1,ME,0,7,1,6,10,0,0,5,silence,fan,regular,5,veg,early_planner,2,medium,single,0,1,1,0,17,software,sports,Multilingual
+1714,female,1,EEE,22,8,0,5,3,6,7,9,silence,fan,regular,5,veg,early_planner,5,high,single,0,0,0,0,17,civil,sports,Multilingual
+1715,female,2,EEE,1,7,1,9,10,5,3,8,silence,cooler,night_before,4,veg,group_study,4,medium,single,0,1,0,0,11,robotics,sports,Hindi
+1716,female,4,MNC,23,6,1,8,0,9,10,8,silence,cooler,regular,2,veg,last_minute,0,low,committed,1,1,0,0,8,civil,sports,Tamil
+1717,male,4,Metallurgy,1,6,1,9,7,6,7,10,silence,fan,night_before,3,non_veg,early_planner,9,high,committed,0,1,0,1,12,civil,sports,Multilingual
+1718,female,3,Civil,23,8,1,4,2,1,2,5,cafe_noise,cooler,regular,3,veg,group_study,5,high,single,0,0,0,0,15,mechanical,both,Telugu
+1719,female,2,CSE,2,5,0,10,9,3,3,1,silence,fan,night_before,3,non_veg,group_study,7,medium,single,1,1,1,1,19,robotics,cultural,Dont Care
+1720,female,1,ECE,1,9,1,4,8,1,1,8,light_music,cooler,exam_crammer,2,veg,last_minute,0,low,committed,0,0,0,1,10,ai_ml,none,Telugu
+1721,female,2,EEE,3,7,1,8,7,7,8,1,cafe_noise,cooler,night_before,0,veg,early_planner,1,low,single,0,0,1,0,17,robotics,sports,English
+1722,male,3,ME,23,9,1,2,2,6,8,2,light_music,fan,night_before,3,veg,group_study,3,medium,committed,0,0,0,0,9,robotics,none,Dont Care
+1723,female,3,MNC,0,9,1,4,7,0,0,5,silence,fan,regular,3,non_veg,last_minute,1,medium,committed,0,0,0,0,9,ai_ml,sports,Dont Care
+1724,male,2,ME,0,8,1,0,10,1,1,1,light_music,cooler,regular,9,veg,group_study,10,medium,committed,0,0,1,1,15,mechanical,none,Telugu
+1725,male,2,CSE,22,8,0,3,0,1,3,4,silence,cooler,regular,5,non_veg,early_planner,8,medium,single,0,0,0,0,12,management,cultural,Multilingual
+1726,male,2,Civil,23,8,1,3,5,3,5,1,light_music,fan,regular,8,non_veg,last_minute,9,high,committed,1,0,0,0,17,civil,none,Telugu
+1727,male,4,MNC,22,6,0,7,3,2,2,3,light_music,cooler,regular,6,non_veg,group_study,7,medium,committed,0,1,0,0,12,robotics,none,Tamil
+1728,male,1,MNC,2,7,1,9,9,0,0,10,silence,cooler,regular,6,non_veg,last_minute,7,low,single,0,1,0,1,12,robotics,sports,English
+1729,male,2,Others,0,10,1,5,6,1,1,10,light_music,cooler,exam_crammer,5,veg,early_planner,3,low,single,0,0,1,1,15,management,both,Dont Care
+1730,female,2,ECE,22,7,1,9,4,10,10,2,cafe_noise,cooler,night_before,4,veg,last_minute,4,high,single,0,1,0,0,10,ai_ml,both,Tamil
+1731,male,2,MNC,0,5,1,8,7,8,6,4,light_music,fan,night_before,4,non_veg,early_planner,3,low,committed,0,1,1,0,16,electronics,none,Multilingual
+1732,male,3,Others,3,6,1,8,9,0,0,5,cafe_noise,fan,night_before,0,non_veg,group_study,8,high,committed,0,1,1,0,16,management,both,Multilingual
+1733,male,3,Others,1,8,1,5,8,8,10,6,cafe_noise,cooler,exam_crammer,4,veg,early_planner,1,medium,single,0,0,0,0,10,robotics,cultural,Telugu
+1734,female,4,CSE,4,7,1,7,9,6,6,9,light_music,cooler,night_before,3,veg,group_study,10,high,committed,0,0,1,1,15,software,cultural,Hindi
+1735,female,1,AI,23,7,0,7,7,1,3,7,cafe_noise,fan,exam_crammer,1,non_veg,group_study,7,high,single,1,1,0,0,15,civil,both,Dont Care
+1736,male,4,ME,0,7,1,9,6,1,0,8,cafe_noise,cooler,exam_crammer,4,veg,early_planner,1,low,single,1,0,1,0,18,civil,both,Dont Care
+1737,female,1,Civil,22,9,0,3,10,4,6,3,light_music,cooler,exam_crammer,5,veg,group_study,0,high,single,0,0,0,0,11,management,cultural,Hindi
+1738,male,3,ME,0,7,1,6,8,4,5,3,silence,cooler,night_before,0,veg,last_minute,9,high,single,0,0,1,1,11,mechanical,both,Multilingual
+1739,male,3,MNC,0,7,1,7,8,3,1,6,silence,cooler,exam_crammer,1,non_veg,group_study,2,high,single,0,0,0,1,8,management,both,Multilingual
+1740,female,3,Civil,0,9,1,5,6,9,10,9,cafe_noise,cooler,night_before,6,non_veg,early_planner,8,high,committed,1,0,0,0,17,robotics,sports,Dont Care
+1741,male,4,EEE,3,10,1,4,8,9,9,9,cafe_noise,fan,night_before,5,non_veg,last_minute,2,medium,committed,0,0,0,1,13,ai_ml,sports,English
+1742,female,2,AI,3,8,0,5,7,2,2,10,silence,cooler,regular,7,non_veg,last_minute,8,high,single,0,0,1,0,16,software,both,Dont Care
+1743,female,2,EEE,1,6,1,9,7,3,5,8,cafe_noise,cooler,regular,6,non_veg,group_study,6,high,committed,0,1,0,0,13,management,both,Multilingual
+1744,male,3,EEE,1,5,1,7,10,9,10,10,silence,cooler,exam_crammer,1,veg,group_study,9,high,committed,0,1,0,0,13,ai_ml,sports,Multilingual
+1745,male,2,ECE,3,10,1,0,9,3,5,1,light_music,fan,exam_crammer,0,veg,early_planner,0,low,single,0,0,1,0,16,management,sports,English
+1746,female,2,ME,2,7,1,8,10,1,0,10,cafe_noise,cooler,night_before,2,veg,last_minute,9,high,committed,0,1,1,0,16,robotics,both,Tamil
+1747,male,4,CSE,4,10,1,1,10,4,5,5,light_music,cooler,exam_crammer,1,non_veg,early_planner,4,high,committed,0,0,1,1,16,software,sports,Tamil
+1748,male,1,EEE,3,10,0,5,6,4,6,9,silence,fan,exam_crammer,2,veg,group_study,8,high,single,0,0,1,0,17,mechanical,cultural,English
+1749,male,3,MNC,4,7,1,10,7,4,2,9,silence,fan,night_before,1,non_veg,last_minute,2,medium,committed,1,1,1,0,20,mechanical,none,English
+1750,female,3,AI,4,6,0,7,9,10,10,7,light_music,fan,exam_crammer,3,non_veg,early_planner,8,high,committed,0,1,1,0,20,management,cultural,Tamil
+1751,female,4,Metallurgy,23,6,0,7,10,10,10,4,cafe_noise,fan,exam_crammer,3,non_veg,early_planner,4,high,committed,0,1,0,0,17,mechanical,sports,Tamil
+1752,male,4,EEE,3,7,1,8,8,9,7,4,light_music,cooler,night_before,1,non_veg,early_planner,8,medium,committed,0,0,0,1,10,electronics,cultural,Tamil
+1753,female,2,AI,1,5,1,6,10,0,2,7,light_music,cooler,night_before,2,non_veg,early_planner,9,high,committed,0,1,1,0,21,ai_ml,none,Tamil
+1754,female,3,Civil,22,7,1,6,0,5,4,0,cafe_noise,cooler,regular,2,non_veg,early_planner,5,low,single,0,0,0,0,8,robotics,sports,Dont Care
+1755,female,1,ME,2,10,1,4,6,10,10,5,silence,fan,night_before,2,veg,last_minute,8,high,single,0,0,0,1,9,software,cultural,Dont Care
+1756,female,4,Others,0,8,1,5,6,1,3,9,light_music,cooler,regular,2,non_veg,early_planner,6,high,single,1,0,0,0,8,management,cultural,Telugu
+1757,female,1,ECE,4,7,0,6,9,6,7,8,light_music,fan,exam_crammer,0,veg,last_minute,6,low,single,0,0,1,0,13,management,none,English
+1758,male,1,AI,1,10,1,5,9,3,5,5,silence,fan,night_before,1,non_veg,early_planner,7,low,single,0,0,0,0,16,civil,sports,Hindi
+1759,male,3,MNC,22,5,1,8,3,4,6,6,light_music,cooler,night_before,4,veg,group_study,6,high,committed,0,1,0,0,12,civil,both,Telugu
+1760,male,3,MNC,0,10,1,1,6,4,6,3,silence,fan,night_before,3,non_veg,group_study,8,medium,committed,0,0,0,1,15,ai_ml,sports,Hindi
+1761,female,4,AI,2,10,1,5,9,4,6,9,cafe_noise,fan,exam_crammer,5,non_veg,early_planner,10,medium,single,0,0,0,1,11,robotics,none,Hindi
+1762,female,3,MNC,0,10,0,1,9,1,2,0,silence,cooler,regular,3,veg,group_study,8,high,single,0,0,0,0,10,electronics,none,Multilingual
+1763,male,3,ME,4,9,1,0,6,4,5,8,silence,cooler,exam_crammer,5,non_veg,last_minute,5,high,single,0,0,0,1,16,robotics,none,English
+1764,female,3,MNC,22,5,1,9,8,2,4,5,light_music,fan,exam_crammer,0,non_veg,early_planner,6,low,committed,0,1,0,0,12,ai_ml,none,Dont Care
+1765,male,1,Others,3,7,1,10,9,3,3,2,silence,cooler,night_before,3,veg,last_minute,1,medium,committed,0,0,1,0,19,robotics,both,Telugu
+1766,male,4,MNC,22,10,0,4,0,1,3,3,silence,cooler,regular,7,veg,early_planner,8,medium,committed,0,0,0,0,15,civil,sports,English
+1767,male,2,Others,3,5,1,7,7,3,4,9,light_music,fan,exam_crammer,3,non_veg,group_study,0,medium,committed,0,1,1,0,20,civil,sports,Tamil
+1768,female,1,EEE,3,7,0,6,10,8,7,5,silence,fan,night_before,3,veg,last_minute,0,medium,committed,0,0,1,0,15,software,cultural,English
+1769,female,3,CSE,0,8,1,0,7,7,9,5,light_music,cooler,exam_crammer,0,veg,group_study,2,medium,committed,1,0,0,0,11,electronics,both,Hindi
+1770,male,1,ME,0,10,1,0,6,10,10,8,cafe_noise,cooler,exam_crammer,1,non_veg,group_study,5,medium,single,0,0,1,1,16,civil,both,Dont Care
+1771,male,3,CSE,0,9,1,0,10,2,4,3,silence,fan,night_before,6,veg,early_planner,4,medium,committed,0,0,0,0,17,software,cultural,Tamil
+1772,male,3,EEE,0,9,1,0,6,0,2,4,cafe_noise,cooler,night_before,2,non_veg,last_minute,1,medium,single,0,0,1,0,14,electronics,cultural,English
+1773,male,1,ME,22,8,1,2,4,0,0,4,silence,fan,regular,2,veg,group_study,8,medium,single,0,0,0,0,8,civil,sports,English
+1774,female,4,AI,2,6,1,8,6,5,7,2,silence,fan,exam_crammer,4,non_veg,early_planner,9,high,committed,1,1,1,0,11,electronics,sports,Dont Care
+1775,female,3,AI,0,7,1,8,7,2,3,1,cafe_noise,cooler,night_before,0,non_veg,early_planner,3,medium,committed,0,1,0,0,15,robotics,sports,Hindi
+1776,male,4,Others,0,9,1,3,9,3,4,7,cafe_noise,cooler,night_before,1,non_veg,early_planner,3,medium,committed,0,0,0,0,13,software,both,Tamil
+1777,male,2,EEE,3,8,1,2,8,0,0,9,light_music,cooler,regular,3,veg,group_study,4,high,committed,0,0,0,1,9,electronics,both,Hindi
+1778,female,3,Others,0,6,1,10,7,7,9,8,light_music,cooler,regular,6,non_veg,early_planner,7,low,committed,1,1,1,0,12,management,cultural,Dont Care
+1779,female,4,ECE,1,8,1,1,9,0,0,9,cafe_noise,cooler,night_before,2,veg,last_minute,9,medium,committed,0,0,1,0,17,electronics,none,English
+1780,male,4,MNC,23,7,1,10,2,4,6,10,silence,fan,regular,4,non_veg,last_minute,3,medium,committed,0,0,0,0,13,robotics,none,Telugu
+1781,male,2,Metallurgy,1,7,1,7,7,5,6,8,light_music,cooler,night_before,5,non_veg,group_study,4,medium,committed,0,0,0,0,13,civil,none,Telugu
+1782,male,4,ECE,1,6,1,10,6,1,0,4,silence,fan,exam_crammer,2,non_veg,last_minute,3,medium,single,0,1,0,0,10,civil,none,Multilingual
+1783,female,4,MNC,3,7,1,10,7,6,5,10,light_music,cooler,regular,4,veg,early_planner,5,low,single,0,0,1,1,13,management,none,Telugu
+1784,female,2,ME,23,8,0,3,7,6,6,8,light_music,fan,exam_crammer,0,non_veg,group_study,2,medium,committed,0,0,0,0,15,ai_ml,sports,Dont Care
+1785,female,3,Others,0,8,1,1,8,0,2,3,light_music,cooler,exam_crammer,2,non_veg,early_planner,7,high,single,0,0,1,0,12,ai_ml,cultural,Dont Care
+1786,male,4,ME,22,6,1,7,9,3,1,1,cafe_noise,cooler,exam_crammer,0,veg,group_study,5,medium,committed,0,1,0,0,14,civil,none,Dont Care
+1787,male,4,ME,1,10,0,2,7,3,5,2,silence,fan,night_before,2,non_veg,group_study,9,high,single,0,0,0,0,10,management,none,Tamil
+1788,female,4,MNC,23,5,0,7,6,4,4,0,cafe_noise,cooler,exam_crammer,1,non_veg,early_planner,4,medium,single,0,1,0,0,9,mechanical,none,Multilingual
+1789,female,1,EEE,2,10,1,3,10,0,0,4,light_music,cooler,exam_crammer,0,veg,last_minute,1,low,committed,0,0,0,1,8,mechanical,sports,Tamil
+1790,male,2,MNC,1,8,0,4,7,0,0,0,cafe_noise,fan,exam_crammer,5,veg,last_minute,9,high,committed,0,0,0,0,13,management,none,Telugu
+1791,female,1,Civil,3,7,1,7,8,6,5,10,cafe_noise,fan,night_before,2,veg,group_study,9,medium,committed,0,0,0,1,15,electronics,cultural,Telugu
+1792,female,2,AI,0,7,1,10,8,8,10,0,cafe_noise,fan,exam_crammer,2,non_veg,early_planner,6,low,single,0,0,1,0,14,civil,sports,English
+1793,male,3,AI,2,7,1,7,8,0,2,10,silence,cooler,exam_crammer,1,veg,early_planner,1,low,single,0,1,0,1,12,ai_ml,sports,Tamil
+1794,female,3,ECE,1,9,1,0,9,1,0,10,cafe_noise,fan,regular,4,non_veg,group_study,0,high,committed,0,0,0,0,13,electronics,both,Hindi
+1795,male,4,AI,22,7,1,10,4,5,5,6,cafe_noise,fan,night_before,5,non_veg,last_minute,6,medium,single,0,1,0,0,17,software,both,English
+1796,male,2,MNC,23,7,0,7,8,5,5,1,cafe_noise,cooler,exam_crammer,5,veg,early_planner,4,low,committed,0,0,0,0,15,management,sports,Tamil
+1797,male,3,Others,4,7,0,10,10,1,2,7,cafe_noise,cooler,regular,7,veg,last_minute,0,low,single,0,0,0,1,14,management,none,Dont Care
+1798,male,2,MNC,23,10,1,2,4,8,9,5,cafe_noise,cooler,night_before,3,non_veg,last_minute,3,low,committed,0,0,0,0,13,ai_ml,none,Multilingual
+1799,male,3,MNC,22,8,1,4,3,3,2,3,cafe_noise,cooler,night_before,2,veg,group_study,3,medium,single,0,0,0,0,16,ai_ml,none,Tamil
+1800,male,1,Metallurgy,23,7,1,10,1,6,8,8,cafe_noise,cooler,night_before,3,veg,group_study,9,high,committed,0,1,0,0,15,ai_ml,none,Multilingual
+1801,male,3,Others,0,10,1,0,9,5,3,9,light_music,cooler,night_before,7,non_veg,last_minute,6,medium,committed,0,0,0,1,17,management,both,Multilingual
+1802,female,1,Civil,0,8,1,5,9,10,8,7,cafe_noise,fan,night_before,1,veg,early_planner,8,medium,committed,0,0,0,0,14,mechanical,cultural,Telugu
+1803,male,3,AI,3,9,1,1,8,10,10,9,cafe_noise,fan,night_before,3,veg,early_planner,1,low,single,1,0,0,1,16,robotics,sports,Hindi
+1804,male,4,Others,0,10,0,0,7,2,0,2,silence,cooler,exam_crammer,5,veg,group_study,0,high,committed,0,0,0,0,17,robotics,none,Tamil
+1805,female,1,AI,4,8,1,4,6,7,7,2,light_music,fan,exam_crammer,4,non_veg,last_minute,1,low,single,0,0,1,0,19,management,both,Hindi
+1806,female,3,ECE,22,7,1,7,10,6,8,3,cafe_noise,fan,exam_crammer,3,veg,early_planner,6,high,committed,0,1,0,0,15,mechanical,cultural,Multilingual
+1807,female,4,Others,4,9,1,2,9,8,6,8,silence,fan,exam_crammer,3,veg,early_planner,9,high,committed,0,0,1,1,14,civil,sports,Telugu
+1808,male,1,AI,1,9,1,5,6,2,2,8,cafe_noise,fan,regular,5,non_veg,group_study,5,high,committed,0,0,0,0,11,civil,sports,Hindi
+1809,female,4,Civil,3,9,0,3,8,0,2,4,cafe_noise,cooler,exam_crammer,4,non_veg,last_minute,3,medium,single,1,0,1,1,14,management,sports,English
+1810,male,2,CSE,1,6,1,6,10,1,3,8,cafe_noise,cooler,night_before,2,non_veg,early_planner,0,medium,single,0,1,1,0,20,management,none,Multilingual
+1811,male,2,ME,0,10,1,0,10,10,10,5,cafe_noise,fan,exam_crammer,4,non_veg,group_study,0,medium,single,0,0,0,0,17,mechanical,sports,English
+1812,male,1,ME,4,8,1,2,8,0,0,7,cafe_noise,cooler,exam_crammer,2,veg,early_planner,4,medium,committed,0,0,1,0,14,mechanical,none,Dont Care
+1813,male,3,Civil,23,7,1,6,3,10,9,10,silence,fan,night_before,2,non_veg,early_planner,0,medium,single,0,0,0,0,14,civil,cultural,Hindi
+1814,female,1,Metallurgy,3,10,1,5,10,4,6,7,cafe_noise,fan,exam_crammer,0,non_veg,early_planner,6,high,committed,0,0,0,1,10,robotics,both,Hindi
+1815,female,4,CSE,3,8,1,3,7,9,9,9,silence,cooler,exam_crammer,3,veg,group_study,10,medium,committed,1,0,1,1,19,electronics,both,Hindi
+1816,male,3,ECE,0,8,1,1,8,1,3,6,cafe_noise,fan,exam_crammer,4,non_veg,last_minute,0,low,committed,0,0,1,1,15,mechanical,both,Dont Care
+1817,male,2,Civil,4,6,1,9,8,2,0,3,silence,cooler,regular,2,non_veg,group_study,0,high,committed,0,1,0,1,14,electronics,sports,Tamil
+1818,male,3,ME,23,8,1,4,7,7,8,3,light_music,cooler,exam_crammer,5,veg,last_minute,1,low,committed,1,0,0,0,11,electronics,both,Multilingual
+1819,female,2,ME,23,5,1,8,1,9,10,5,cafe_noise,cooler,night_before,1,non_veg,early_planner,10,medium,single,0,1,0,0,15,software,cultural,Multilingual
+1820,male,3,ME,0,7,1,7,10,4,4,8,light_music,cooler,night_before,0,non_veg,last_minute,9,medium,single,0,0,0,1,16,robotics,none,Multilingual
+1821,male,3,EEE,1,8,1,3,6,3,3,6,light_music,cooler,exam_crammer,2,veg,early_planner,2,medium,committed,0,0,1,0,16,management,both,Tamil
+1822,female,3,Civil,1,10,0,0,7,4,6,4,light_music,cooler,exam_crammer,0,veg,early_planner,10,medium,committed,1,0,0,1,14,electronics,none,Hindi
+1823,female,4,MNC,3,10,1,2,10,9,9,4,cafe_noise,cooler,exam_crammer,4,veg,group_study,0,medium,single,0,0,0,1,16,management,none,Hindi
+1824,male,4,ECE,22,7,1,10,1,5,7,7,light_music,cooler,night_before,1,veg,early_planner,8,medium,committed,0,1,0,0,15,management,both,Dont Care
+1825,female,1,ME,0,10,1,4,6,6,6,5,silence,cooler,night_before,2,veg,group_study,9,high,committed,0,0,0,1,9,robotics,both,English
+1826,female,1,AI,23,8,1,1,0,8,10,0,cafe_noise,fan,regular,2,veg,last_minute,7,low,committed,0,0,0,0,8,robotics,both,Tamil
+1827,male,2,Civil,23,8,1,0,2,0,0,0,light_music,cooler,regular,7,veg,last_minute,4,low,committed,0,0,0,0,16,software,sports,Telugu
+1828,female,4,EEE,3,5,0,7,8,3,2,8,cafe_noise,fan,regular,8,veg,early_planner,10,medium,single,0,1,1,0,14,management,both,Tamil
+1829,male,2,Civil,0,9,1,0,8,8,10,7,light_music,cooler,night_before,1,veg,group_study,1,high,committed,0,0,1,0,18,civil,sports,Dont Care
+1830,female,1,ECE,22,7,1,10,4,4,3,5,silence,fan,regular,2,veg,early_planner,4,low,single,0,1,0,0,8,robotics,cultural,English
+1831,male,2,EEE,3,7,1,10,8,7,6,0,cafe_noise,cooler,exam_crammer,4,veg,group_study,5,high,single,0,0,1,0,19,electronics,none,English
+1832,male,1,ECE,3,7,0,7,8,0,0,1,cafe_noise,cooler,exam_crammer,1,veg,group_study,0,medium,single,0,0,1,1,12,civil,cultural,English
+1833,male,4,Civil,2,10,1,2,10,3,2,9,light_music,cooler,night_before,2,non_veg,group_study,10,high,single,0,0,1,1,19,civil,both,Hindi
+1834,female,3,MNC,22,9,1,0,0,8,6,2,silence,fan,regular,4,veg,last_minute,3,low,committed,1,0,0,0,10,ai_ml,none,Telugu
+1835,male,4,ECE,23,7,0,7,7,0,1,9,cafe_noise,fan,exam_crammer,1,veg,group_study,8,high,committed,1,0,0,0,13,electronics,both,English
+1836,female,2,EEE,0,7,1,10,8,0,0,2,light_music,cooler,night_before,3,veg,last_minute,1,low,committed,0,0,0,1,9,electronics,both,Multilingual
+1837,male,2,EEE,22,5,1,6,4,3,3,1,silence,fan,regular,5,veg,group_study,4,high,single,1,1,0,0,15,robotics,none,Hindi
+1838,male,4,ECE,1,7,1,9,9,2,2,1,silence,cooler,exam_crammer,3,veg,last_minute,0,low,single,0,1,0,0,17,electronics,cultural,Telugu
+1839,female,4,Civil,23,7,1,8,3,6,7,5,silence,fan,regular,6,non_veg,last_minute,3,low,single,0,0,0,0,16,management,both,Multilingual
+1840,male,1,Metallurgy,1,8,1,3,9,10,10,6,silence,fan,night_before,3,non_veg,last_minute,3,low,committed,0,0,0,0,9,ai_ml,none,Telugu
+1841,male,2,Civil,2,8,1,3,6,2,3,3,cafe_noise,fan,regular,5,non_veg,early_planner,5,low,committed,0,0,1,0,19,robotics,cultural,Dont Care
+1842,female,2,ECE,2,7,1,7,6,0,0,0,cafe_noise,cooler,night_before,2,non_veg,group_study,9,high,committed,0,0,0,1,11,mechanical,sports,Telugu
+1843,male,4,CSE,0,9,0,3,8,10,8,5,silence,fan,regular,5,veg,early_planner,8,medium,single,0,0,0,0,11,electronics,cultural,Multilingual
+1844,male,3,ECE,4,5,0,6,7,9,9,6,light_music,fan,exam_crammer,4,non_veg,group_study,2,high,single,0,1,1,0,22,electronics,cultural,Tamil
+1845,male,2,MNC,4,9,1,2,8,1,0,3,light_music,cooler,night_before,4,non_veg,group_study,8,high,committed,0,0,1,0,14,software,none,Telugu
+1846,male,3,ECE,2,8,1,5,8,9,7,5,silence,cooler,night_before,3,veg,early_planner,5,high,single,0,0,1,0,11,mechanical,cultural,Tamil
+1847,female,4,ECE,4,8,1,1,9,3,1,8,silence,fan,night_before,5,non_veg,last_minute,6,high,single,1,0,1,0,18,mechanical,sports,Telugu
+1848,female,4,MNC,2,7,0,10,9,0,1,3,light_music,fan,regular,2,non_veg,group_study,9,medium,committed,0,0,0,1,8,management,sports,Dont Care
+1849,male,1,ECE,3,9,1,2,8,0,1,9,silence,cooler,regular,5,veg,last_minute,1,low,single,0,0,1,1,18,ai_ml,both,Multilingual
+1850,female,2,ME,1,8,1,3,8,7,7,3,silence,cooler,exam_crammer,3,veg,early_planner,10,high,single,0,0,0,0,9,management,sports,Telugu
+1851,male,3,CSE,2,7,1,7,6,6,6,9,cafe_noise,cooler,night_before,0,non_veg,last_minute,9,high,committed,0,0,0,1,14,mechanical,both,English
+1852,female,1,AI,2,10,1,3,8,7,7,4,cafe_noise,cooler,night_before,2,veg,group_study,5,high,single,0,0,0,1,8,management,sports,Dont Care
+1853,male,2,CSE,2,10,1,2,7,3,1,2,silence,cooler,regular,7,non_veg,group_study,5,high,single,0,0,0,1,13,management,cultural,English
+1854,male,1,ECE,1,7,1,9,9,5,6,9,silence,fan,regular,3,veg,group_study,1,medium,single,0,1,0,0,13,software,both,Dont Care
+1855,male,4,ME,0,10,1,1,10,2,1,1,cafe_noise,cooler,exam_crammer,1,non_veg,early_planner,1,medium,single,0,0,0,0,15,ai_ml,sports,Dont Care
+1856,male,2,Civil,4,9,0,5,8,10,8,8,silence,cooler,exam_crammer,2,non_veg,group_study,1,medium,committed,0,0,1,0,15,management,cultural,Telugu
+1857,male,1,ECE,1,8,1,1,10,7,9,0,cafe_noise,fan,regular,3,non_veg,early_planner,9,medium,committed,0,0,0,0,10,management,cultural,Multilingual
+1858,male,1,ME,0,7,1,10,9,3,1,4,cafe_noise,cooler,night_before,1,veg,last_minute,0,medium,single,0,0,0,0,11,mechanical,both,Multilingual
+1859,female,3,MNC,4,9,1,3,6,2,3,4,light_music,cooler,exam_crammer,4,veg,group_study,4,high,committed,0,0,1,0,14,ai_ml,none,Hindi
+1860,male,1,ME,3,5,1,8,9,3,5,7,cafe_noise,cooler,regular,5,non_veg,group_study,7,high,committed,0,1,0,1,11,mechanical,cultural,Multilingual
+1861,female,2,MNC,1,8,0,2,9,5,3,5,light_music,fan,regular,6,veg,group_study,1,high,committed,0,0,0,1,13,mechanical,cultural,Tamil
+1862,male,2,Metallurgy,2,10,1,5,6,10,10,5,light_music,cooler,night_before,0,veg,last_minute,4,medium,single,0,0,1,1,20,management,none,Telugu
+1863,female,3,AI,1,9,0,2,10,6,7,5,cafe_noise,cooler,regular,4,non_veg,group_study,7,medium,single,0,0,0,0,10,civil,both,English
+1864,female,2,Others,0,9,1,0,7,6,5,3,silence,cooler,regular,5,veg,early_planner,9,medium,committed,0,0,0,0,12,mechanical,sports,Multilingual
+1865,female,4,ME,2,5,1,10,8,3,1,0,cafe_noise,cooler,exam_crammer,0,veg,last_minute,4,high,committed,0,1,1,0,14,management,sports,English
+1866,male,2,EEE,1,6,1,7,7,7,8,2,light_music,fan,regular,2,non_veg,last_minute,1,medium,committed,0,1,0,0,8,electronics,cultural,Hindi
+1867,male,2,ECE,23,9,0,5,4,6,6,9,cafe_noise,fan,regular,4,non_veg,last_minute,2,low,committed,0,0,0,0,13,mechanical,none,Telugu
+1868,female,1,CSE,4,5,1,9,6,1,2,10,cafe_noise,cooler,exam_crammer,3,veg,last_minute,5,high,single,0,1,1,0,14,electronics,cultural,Multilingual
+1869,male,1,Others,4,8,1,4,9,7,6,5,light_music,cooler,night_before,5,veg,last_minute,10,medium,committed,0,0,1,0,16,robotics,both,English
+1870,female,2,CSE,0,5,0,9,7,8,9,4,cafe_noise,cooler,night_before,2,veg,early_planner,10,medium,single,0,1,0,1,12,civil,cultural,Dont Care
+1871,male,3,Metallurgy,22,10,1,1,9,4,2,9,cafe_noise,cooler,exam_crammer,4,non_veg,last_minute,4,high,single,1,0,0,0,15,software,sports,Multilingual
+1872,female,1,Others,3,5,1,10,7,3,1,0,light_music,cooler,exam_crammer,5,veg,group_study,10,medium,single,0,1,0,1,14,ai_ml,none,Hindi
+1873,female,3,Others,23,5,1,10,1,3,5,4,silence,cooler,night_before,6,veg,last_minute,3,medium,single,0,1,0,0,17,ai_ml,both,Dont Care
+1874,male,2,CSE,1,7,0,10,6,3,1,1,light_music,cooler,night_before,2,veg,last_minute,3,medium,single,0,0,0,0,10,robotics,cultural,English
+1875,female,2,MNC,23,9,1,3,5,5,7,0,light_music,fan,night_before,4,veg,last_minute,4,medium,single,0,0,0,0,11,mechanical,sports,English
+1876,male,4,CSE,3,5,0,10,6,10,10,3,cafe_noise,cooler,night_before,0,veg,last_minute,1,low,single,0,1,1,0,19,software,cultural,Telugu
+1877,female,1,MNC,0,5,1,7,8,3,2,5,light_music,fan,night_before,4,veg,last_minute,8,high,committed,0,1,0,0,10,robotics,sports,Telugu
+1878,female,2,Metallurgy,23,8,0,0,9,6,6,6,cafe_noise,fan,exam_crammer,3,non_veg,early_planner,1,medium,single,0,0,0,0,17,robotics,none,English
+1879,male,4,ECE,0,10,1,4,8,6,8,8,cafe_noise,cooler,regular,3,non_veg,early_planner,9,medium,committed,0,0,0,0,16,ai_ml,both,Dont Care
+1880,male,1,Civil,2,7,1,7,6,4,5,4,cafe_noise,fan,night_before,5,non_veg,last_minute,1,medium,committed,0,0,1,0,20,electronics,cultural,Telugu
+1881,male,2,MNC,1,9,0,0,10,4,5,7,light_music,fan,night_before,2,veg,early_planner,9,medium,committed,0,0,0,0,15,electronics,both,English
+1882,female,2,Metallurgy,2,9,0,3,10,9,9,7,light_music,fan,regular,5,veg,group_study,8,high,committed,0,0,0,1,11,mechanical,none,Dont Care
+1883,male,1,EEE,1,8,1,1,8,7,8,10,cafe_noise,cooler,regular,7,non_veg,last_minute,2,low,committed,0,0,1,0,13,mechanical,sports,Tamil
+1884,female,1,Metallurgy,4,7,1,8,7,6,8,8,silence,fan,regular,8,non_veg,group_study,9,medium,single,0,1,0,1,15,management,none,Multilingual
+1885,female,1,CSE,23,10,0,5,0,6,5,2,silence,fan,regular,5,non_veg,group_study,6,high,single,0,0,0,0,11,management,none,Tamil
+1886,male,2,CSE,2,6,1,6,7,5,3,2,light_music,cooler,regular,2,non_veg,last_minute,3,low,committed,0,1,0,1,8,robotics,both,Tamil
+1887,male,2,Civil,2,7,1,6,8,6,8,8,cafe_noise,cooler,regular,3,non_veg,group_study,5,high,committed,0,0,0,1,9,mechanical,none,Multilingual
+1888,female,4,Metallurgy,22,7,0,9,10,6,8,6,cafe_noise,fan,exam_crammer,2,veg,group_study,3,medium,committed,0,0,0,0,12,electronics,cultural,English
+1889,female,3,AI,22,8,1,5,5,9,7,3,light_music,cooler,regular,3,veg,group_study,9,high,single,1,0,0,0,9,software,sports,English
+1890,male,1,ECE,2,10,1,4,9,1,0,0,silence,cooler,regular,5,veg,last_minute,6,low,committed,0,0,0,1,16,ai_ml,none,Telugu
+1891,male,2,CSE,0,7,0,8,6,9,8,6,light_music,fan,exam_crammer,4,veg,last_minute,0,medium,single,1,0,0,0,14,electronics,cultural,Hindi
+1892,male,2,Civil,1,9,1,3,8,1,0,9,light_music,fan,regular,2,veg,group_study,2,high,single,0,0,1,0,16,management,sports,English
+1893,male,1,ECE,0,7,1,8,6,9,8,5,cafe_noise,fan,night_before,5,non_veg,last_minute,2,medium,committed,0,0,1,0,19,civil,both,Multilingual
+1894,male,3,Metallurgy,2,10,0,0,7,6,7,2,light_music,cooler,night_before,0,non_veg,last_minute,0,low,single,0,0,1,1,13,mechanical,sports,Hindi
+1895,female,1,Metallurgy,1,7,1,7,9,9,10,4,silence,fan,regular,7,veg,group_study,5,medium,single,0,0,1,1,19,ai_ml,both,Multilingual
+1896,female,3,Others,22,9,0,3,9,6,4,2,light_music,fan,exam_crammer,7,non_veg,last_minute,10,high,single,1,0,0,0,17,civil,sports,Multilingual
+1897,female,2,Civil,1,6,0,8,6,6,8,7,cafe_noise,cooler,night_before,3,veg,early_planner,8,high,committed,0,1,1,0,13,ai_ml,none,Multilingual
+1898,female,3,CSE,0,5,1,10,8,4,6,4,silence,cooler,exam_crammer,4,veg,last_minute,7,low,committed,0,1,0,0,15,robotics,both,Hindi
+1899,male,4,AI,3,9,1,1,9,0,0,9,cafe_noise,cooler,night_before,1,non_veg,early_planner,10,medium,committed,0,0,1,0,20,mechanical,both,Tamil
+1900,male,2,Metallurgy,1,10,1,1,10,1,0,9,light_music,cooler,regular,7,veg,group_study,6,high,committed,1,0,1,1,17,robotics,both,Dont Care
+1901,male,4,AI,3,9,1,4,7,8,10,5,light_music,fan,exam_crammer,5,veg,last_minute,9,medium,committed,1,0,1,0,13,ai_ml,none,Multilingual
+1902,female,1,Metallurgy,3,7,1,8,7,7,6,1,light_music,fan,exam_crammer,2,veg,group_study,7,medium,committed,0,1,1,0,19,robotics,none,Telugu
+1903,female,1,CSE,23,8,1,4,8,7,8,7,cafe_noise,fan,exam_crammer,2,non_veg,group_study,5,high,committed,0,0,0,0,10,mechanical,sports,English
+1904,male,1,ECE,3,9,1,2,6,9,7,8,light_music,cooler,night_before,2,non_veg,group_study,8,medium,committed,0,0,0,1,9,electronics,sports,Dont Care
+1905,male,3,ME,22,9,1,1,0,0,2,2,silence,fan,night_before,3,veg,group_study,2,medium,single,0,0,0,0,16,software,none,English
+1906,female,2,ECE,0,9,1,2,9,5,3,5,silence,cooler,night_before,2,veg,group_study,9,medium,committed,0,0,0,0,9,civil,none,English
+1907,female,1,Metallurgy,22,8,1,4,1,8,9,5,cafe_noise,cooler,regular,5,non_veg,last_minute,9,high,single,0,0,0,0,11,electronics,both,Hindi
+1908,male,1,ME,22,5,1,6,5,7,6,1,cafe_noise,cooler,night_before,4,non_veg,early_planner,8,medium,single,0,1,0,0,13,ai_ml,sports,Telugu
+1909,male,2,ME,2,8,1,2,6,2,2,9,cafe_noise,fan,regular,5,non_veg,last_minute,3,medium,committed,0,0,1,0,15,electronics,sports,Telugu
+1910,female,1,AI,23,10,1,2,6,3,4,7,light_music,cooler,exam_crammer,4,non_veg,last_minute,6,low,single,1,0,0,0,10,robotics,both,Dont Care
+1911,male,4,Civil,1,9,1,2,8,2,2,4,silence,fan,exam_crammer,0,veg,last_minute,8,medium,single,0,0,1,0,10,mechanical,both,Telugu
+1912,male,2,AI,3,9,1,1,6,5,3,10,silence,fan,regular,5,veg,last_minute,1,medium,committed,0,0,1,1,17,electronics,both,Telugu
+1913,male,2,AI,0,5,1,9,6,8,10,10,silence,fan,night_before,4,veg,early_planner,1,medium,single,0,1,1,1,14,electronics,cultural,Telugu
+1914,female,2,ECE,4,7,1,6,9,7,6,7,cafe_noise,cooler,regular,8,non_veg,last_minute,8,high,committed,0,0,1,1,21,mechanical,cultural,Dont Care
+1915,female,4,ECE,1,5,1,7,6,9,10,7,cafe_noise,fan,exam_crammer,1,non_veg,group_study,2,high,single,0,1,0,0,13,robotics,none,Tamil
+1916,female,2,EEE,4,7,1,8,10,3,2,2,light_music,fan,exam_crammer,5,veg,last_minute,8,medium,single,0,0,1,1,20,software,sports,Telugu
+1917,female,4,Metallurgy,1,9,1,4,10,1,1,4,cafe_noise,cooler,regular,6,non_veg,last_minute,4,medium,committed,1,0,1,0,13,electronics,both,Telugu
+1918,female,2,EEE,1,7,1,6,7,7,7,6,silence,fan,night_before,4,veg,early_planner,5,medium,single,0,1,0,0,14,civil,both,Hindi
+1919,female,3,CSE,22,7,0,10,5,7,9,4,light_music,cooler,night_before,2,non_veg,early_planner,1,medium,single,1,0,0,0,12,ai_ml,sports,Hindi
+1920,female,1,Metallurgy,3,5,1,9,8,10,10,5,cafe_noise,fan,regular,4,veg,group_study,7,medium,committed,0,1,1,0,16,management,cultural,Telugu
+1921,male,3,Metallurgy,1,10,0,1,7,5,7,1,cafe_noise,cooler,regular,4,veg,last_minute,10,medium,committed,0,0,0,0,10,robotics,sports,Tamil
+1922,male,1,Others,22,7,1,8,1,7,8,7,silence,cooler,night_before,4,veg,last_minute,8,high,single,0,1,0,0,17,robotics,none,Telugu
+1923,male,4,Others,0,9,1,5,6,8,10,4,light_music,cooler,exam_crammer,4,veg,last_minute,1,medium,single,1,0,1,0,12,electronics,cultural,Telugu
+1924,male,3,MNC,22,8,1,4,4,0,0,5,cafe_noise,cooler,regular,3,non_veg,group_study,5,high,committed,1,0,0,0,12,civil,sports,Telugu
+1925,male,2,MNC,1,6,1,7,9,8,6,0,cafe_noise,cooler,night_before,3,veg,early_planner,5,medium,single,0,1,0,0,9,management,sports,Multilingual
+1926,male,1,AI,3,7,1,9,10,1,3,9,light_music,fan,night_before,4,veg,group_study,7,medium,committed,0,1,1,0,18,mechanical,none,Tamil
+1927,male,1,CSE,22,6,1,10,7,0,0,1,light_music,fan,exam_crammer,4,veg,last_minute,9,high,committed,0,1,0,0,16,management,sports,English
+1928,female,3,ME,3,6,1,8,6,7,5,10,cafe_noise,fan,exam_crammer,0,veg,early_planner,4,low,committed,0,1,0,1,16,electronics,cultural,Telugu
+1929,female,4,ME,3,6,1,6,10,7,9,3,cafe_noise,fan,exam_crammer,5,non_veg,early_planner,8,high,single,0,1,0,1,16,electronics,both,English
+1930,male,3,Others,0,9,1,0,10,10,9,10,silence,cooler,exam_crammer,4,veg,group_study,0,high,single,1,0,0,0,12,mechanical,both,Tamil
+1931,male,4,Others,0,8,1,1,7,3,1,8,light_music,cooler,exam_crammer,1,veg,early_planner,8,medium,single,0,0,1,0,18,ai_ml,both,Telugu
+1932,female,4,Others,22,7,1,9,3,7,9,5,cafe_noise,fan,regular,4,non_veg,early_planner,9,high,committed,0,0,0,0,10,mechanical,cultural,English
+1933,male,1,Civil,3,10,1,0,7,6,7,7,cafe_noise,cooler,night_before,4,veg,last_minute,6,medium,single,0,0,0,1,12,electronics,sports,Dont Care
+1934,male,3,MNC,22,9,0,4,5,1,0,1,cafe_noise,fan,regular,5,veg,last_minute,3,low,committed,0,0,0,0,16,software,sports,English
+1935,female,3,ECE,1,7,1,10,10,4,5,9,cafe_noise,cooler,regular,3,veg,early_planner,2,medium,single,1,0,0,0,11,mechanical,sports,Tamil
+1936,male,4,ME,4,9,1,3,6,9,9,4,silence,cooler,regular,2,veg,early_planner,9,high,committed,0,0,1,0,12,ai_ml,sports,Telugu
+1937,female,3,Metallurgy,2,10,1,2,10,3,5,0,light_music,fan,regular,9,non_veg,group_study,10,medium,committed,0,0,1,0,17,mechanical,both,Multilingual
+1938,male,2,MNC,22,8,0,4,0,2,4,3,cafe_noise,fan,regular,4,non_veg,group_study,5,high,single,0,0,0,0,14,mechanical,cultural,Tamil
+1939,female,2,EEE,1,10,1,3,8,0,0,9,light_music,cooler,exam_crammer,0,non_veg,early_planner,0,low,committed,1,0,0,1,16,robotics,none,Multilingual
+1940,female,3,ECE,23,7,1,8,6,4,6,0,light_music,fan,exam_crammer,0,non_veg,last_minute,2,medium,single,0,0,0,0,13,robotics,cultural,Telugu
+1941,female,3,MNC,23,6,1,9,0,9,9,10,cafe_noise,fan,night_before,3,non_veg,early_planner,1,medium,single,0,1,0,0,9,electronics,sports,English
+1942,male,4,CSE,4,9,1,3,9,7,9,10,cafe_noise,fan,regular,3,non_veg,early_planner,10,high,single,0,0,1,1,14,electronics,sports,Dont Care
+1943,female,2,Metallurgy,4,8,1,3,10,8,6,8,cafe_noise,fan,night_before,4,veg,last_minute,8,medium,single,0,0,0,1,10,management,cultural,Dont Care
+1944,male,2,MNC,0,7,1,7,10,6,7,1,silence,cooler,exam_crammer,4,veg,last_minute,2,low,single,0,0,0,0,11,mechanical,cultural,Tamil
+1945,male,1,Civil,0,10,0,4,10,10,10,6,cafe_noise,cooler,exam_crammer,5,veg,group_study,1,high,committed,0,0,0,0,13,software,both,Tamil
+1946,male,4,Others,2,8,1,5,7,0,0,2,light_music,cooler,exam_crammer,2,veg,group_study,3,medium,single,1,0,1,0,17,civil,sports,Tamil
+1947,male,1,Others,3,7,1,7,6,0,1,1,light_music,cooler,regular,6,non_veg,group_study,1,high,committed,0,0,1,1,15,electronics,cultural,Hindi
+1948,female,2,Metallurgy,22,9,1,4,5,0,1,3,silence,fan,regular,5,veg,group_study,0,medium,single,0,0,0,0,13,mechanical,sports,Dont Care
+1949,female,4,Others,3,7,1,7,8,1,1,6,cafe_noise,fan,exam_crammer,3,veg,last_minute,5,high,committed,0,0,1,1,12,mechanical,cultural,Dont Care
+1950,male,3,MNC,0,7,1,10,6,0,1,6,cafe_noise,fan,night_before,2,non_veg,early_planner,9,high,committed,0,0,0,0,13,civil,sports,Telugu
+1951,male,4,EEE,0,6,1,10,9,3,2,8,silence,cooler,night_before,3,veg,group_study,7,medium,single,0,1,0,0,12,mechanical,cultural,Hindi
+1952,female,3,ME,1,6,1,9,6,9,10,2,silence,cooler,exam_crammer,0,veg,group_study,9,medium,committed,1,1,1,0,16,civil,sports,Tamil
+1953,male,3,ME,1,10,1,2,10,8,6,6,cafe_noise,cooler,night_before,4,non_veg,last_minute,9,medium,single,0,0,1,0,12,civil,none,Tamil
+1954,female,4,ECE,4,10,1,4,7,3,1,5,cafe_noise,cooler,exam_crammer,0,veg,last_minute,1,low,single,0,0,1,0,11,management,both,Multilingual
+1955,male,3,AI,1,10,1,1,9,3,2,9,light_music,fan,night_before,5,veg,early_planner,8,high,single,1,0,0,0,12,mechanical,none,Hindi
+1956,male,1,CSE,22,7,1,7,6,6,7,6,cafe_noise,fan,exam_crammer,4,non_veg,early_planner,2,medium,committed,1,0,0,0,16,management,both,English
+1957,female,2,Metallurgy,1,5,1,10,9,10,8,6,cafe_noise,fan,night_before,5,veg,last_minute,7,high,committed,0,1,1,1,16,mechanical,both,Dont Care
+1958,male,3,ECE,0,10,0,0,8,8,10,9,light_music,cooler,regular,8,veg,group_study,7,high,committed,0,0,0,0,14,robotics,cultural,Telugu
+1959,female,1,AI,2,5,1,6,8,6,7,4,light_music,cooler,exam_crammer,1,veg,group_study,2,medium,committed,0,1,0,1,13,civil,none,English
+1960,male,3,Civil,0,7,1,8,8,0,0,8,light_music,cooler,exam_crammer,4,veg,group_study,2,high,single,0,0,0,0,10,ai_ml,both,English
+1961,male,2,Civil,3,6,0,7,9,0,1,6,light_music,cooler,night_before,2,veg,early_planner,5,high,single,0,1,1,0,14,civil,sports,Telugu
+1962,male,1,CSE,1,9,1,5,10,3,3,6,silence,cooler,exam_crammer,2,non_veg,group_study,0,high,committed,0,0,0,0,13,ai_ml,cultural,Tamil
+1963,female,2,Others,23,7,0,6,7,3,3,2,light_music,cooler,exam_crammer,0,veg,group_study,3,high,committed,0,1,0,0,11,mechanical,cultural,Dont Care
+1964,male,2,MNC,2,8,1,1,8,0,0,0,silence,fan,exam_crammer,0,veg,last_minute,0,low,single,0,0,1,1,11,electronics,sports,Multilingual
+1965,male,1,ECE,23,8,1,4,5,5,5,4,light_music,cooler,regular,6,veg,group_study,2,medium,committed,0,0,0,0,17,software,sports,Tamil
+1966,male,1,ECE,22,8,1,3,0,9,8,7,light_music,cooler,regular,7,non_veg,last_minute,8,medium,single,0,0,0,0,14,management,both,Tamil
+1967,male,1,Metallurgy,23,7,0,7,1,1,0,4,light_music,cooler,night_before,4,non_veg,group_study,4,medium,committed,0,0,0,0,15,mechanical,sports,Hindi
+1968,female,4,Metallurgy,22,7,1,9,1,10,9,9,cafe_noise,fan,regular,5,non_veg,early_planner,4,low,committed,0,1,0,0,15,software,cultural,English
+1969,female,1,Civil,1,7,0,9,6,4,3,2,silence,fan,night_before,2,veg,group_study,10,high,committed,0,1,0,0,17,robotics,sports,English
+1970,male,1,Civil,4,6,1,6,8,7,7,8,light_music,cooler,regular,4,veg,group_study,3,medium,single,0,1,0,1,15,ai_ml,none,Dont Care
+1971,female,1,EEE,1,10,0,0,7,2,2,1,cafe_noise,fan,night_before,0,veg,last_minute,2,medium,single,0,0,1,1,14,management,cultural,English
+1972,male,1,EEE,0,5,1,8,7,8,7,2,silence,fan,regular,3,veg,last_minute,4,low,committed,0,1,0,0,15,robotics,sports,Multilingual
+1973,male,3,Others,1,9,1,3,6,6,6,3,silence,fan,regular,5,veg,last_minute,10,high,committed,0,0,1,0,11,electronics,cultural,Multilingual
+1974,male,4,EEE,1,8,0,0,7,8,8,9,cafe_noise,cooler,night_before,3,non_veg,group_study,3,high,committed,0,0,0,0,13,electronics,both,Multilingual
+1975,female,2,MNC,23,9,0,1,7,0,0,0,silence,fan,exam_crammer,0,veg,group_study,7,medium,committed,0,0,0,0,13,civil,none,Telugu
+1976,female,1,MNC,23,10,1,5,10,4,5,10,cafe_noise,fan,exam_crammer,1,veg,early_planner,3,low,committed,0,0,0,0,9,management,both,Dont Care
+1977,female,3,ECE,0,9,1,4,6,2,1,3,light_music,fan,regular,7,non_veg,group_study,10,high,committed,0,0,0,0,13,management,none,Multilingual
+1978,female,3,ME,4,8,1,5,7,3,5,3,cafe_noise,cooler,night_before,4,non_veg,early_planner,7,high,committed,0,0,1,0,17,management,sports,Hindi
+1979,female,3,MNC,1,8,1,3,8,3,2,8,silence,fan,exam_crammer,3,non_veg,last_minute,5,medium,committed,0,0,0,0,13,mechanical,cultural,Hindi
+1980,female,2,AI,23,6,1,7,4,10,8,7,silence,cooler,night_before,2,non_veg,last_minute,10,high,single,0,1,0,0,8,civil,sports,Tamil
+1981,female,1,Civil,1,8,1,4,6,6,6,1,light_music,fan,exam_crammer,4,non_veg,last_minute,4,medium,single,1,0,1,0,19,electronics,both,Tamil
+1982,female,4,Metallurgy,1,8,1,1,10,9,9,6,cafe_noise,cooler,night_before,0,veg,early_planner,3,medium,single,0,0,1,0,16,electronics,cultural,Dont Care
+1983,female,4,EEE,2,10,1,0,10,10,10,5,light_music,cooler,regular,7,veg,group_study,3,high,single,0,0,1,0,15,civil,sports,Tamil
+1984,male,3,ECE,3,8,1,1,10,7,5,6,cafe_noise,cooler,night_before,3,veg,last_minute,3,low,committed,0,0,0,1,14,robotics,sports,Tamil
+1985,female,2,CSE,4,7,1,7,6,10,10,10,cafe_noise,cooler,exam_crammer,3,veg,group_study,10,medium,single,1,0,1,0,14,software,cultural,Hindi
+1986,female,2,Metallurgy,1,10,1,1,8,9,8,3,cafe_noise,cooler,regular,3,veg,group_study,8,medium,single,1,0,0,0,9,ai_ml,cultural,Tamil
+1987,female,2,AI,0,10,1,0,7,4,5,4,light_music,fan,night_before,2,non_veg,last_minute,3,low,committed,0,0,0,0,8,electronics,both,Hindi
+1988,female,4,EEE,4,10,1,2,10,9,7,5,light_music,fan,exam_crammer,5,veg,early_planner,8,high,single,0,0,0,1,15,civil,none,Multilingual
+1989,female,3,AI,0,8,1,0,6,6,8,8,silence,fan,regular,4,veg,group_study,9,medium,single,0,0,0,0,15,electronics,none,Multilingual
+1990,female,1,Civil,22,6,1,7,5,2,0,1,light_music,cooler,night_before,0,non_veg,last_minute,5,medium,single,0,1,0,0,11,robotics,cultural,Dont Care
+1991,female,4,Civil,22,7,0,8,9,2,4,10,cafe_noise,cooler,exam_crammer,0,non_veg,group_study,9,medium,single,0,0,0,0,16,management,none,Telugu
+1992,female,3,Others,0,7,1,8,10,2,3,8,cafe_noise,cooler,night_before,5,veg,group_study,6,medium,single,0,0,1,1,17,management,both,Tamil
+1993,female,3,ECE,2,6,0,6,8,3,4,9,cafe_noise,fan,night_before,1,veg,group_study,9,high,committed,1,1,0,1,14,ai_ml,none,Multilingual
+1994,female,1,Metallurgy,0,7,1,8,9,5,3,0,light_music,cooler,regular,3,non_veg,group_study,2,medium,committed,0,0,0,0,9,management,cultural,Multilingual
+1995,female,1,Metallurgy,4,9,0,1,7,4,2,3,silence,cooler,regular,7,veg,group_study,7,medium,committed,0,0,0,1,17,management,both,Dont Care
+1996,male,1,CSE,2,7,1,7,10,7,7,4,light_music,cooler,exam_crammer,4,non_veg,early_planner,2,medium,single,0,1,1,1,15,robotics,cultural,English
+1997,male,2,ECE,2,9,1,5,10,4,6,8,silence,cooler,regular,4,veg,early_planner,0,medium,single,0,0,0,1,10,software,both,English
+1998,female,1,AI,22,9,1,1,7,10,10,5,light_music,fan,exam_crammer,2,non_veg,last_minute,9,high,single,0,0,0,0,8,robotics,both,Dont Care
+1999,female,3,CSE,2,10,1,1,6,4,3,3,cafe_noise,cooler,night_before,2,non_veg,early_planner,4,medium,committed,0,0,1,0,18,ai_ml,cultural,Hindi
+2000,male,1,ME,1,9,1,5,9,9,8,1,silence,cooler,night_before,0,non_veg,early_planner,1,medium,single,0,0,1,0,17,management,sports,Telugu

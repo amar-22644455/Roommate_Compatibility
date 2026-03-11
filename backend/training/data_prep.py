@@ -1,0 +1,101 @@
+# training/data_prep.py
+import pandas as pd
+import numpy as np
+import random
+from itertools import combinations
+
+def calculate_compatibility(row):
+    score = 50
+
+    if row['gender_A'] != row['gender_B'] or row['year_of_study_A'] != row['year_of_study_B']:
+        return 0
+
+    s1, s2 = row['sleep_time_A'], row['sleep_time_B']
+    sleep_diff = min(abs(s1 - s2), 24 - abs(s1 - s2))
+    if sleep_diff <= 2:
+        score += 10
+    elif sleep_diff > 4:
+        score -= 15
+
+    w1, w2 = row['wake_up_time_A'], row['wake_up_time_B']
+    wake_diff = min(abs(w1 - w2), 24 - abs(w1 - w2))
+    if wake_diff <= 2:
+        score += 6
+
+    clean_diff = abs(row['cleanliness_score_A'] - row['cleanliness_score_B'])
+    if clean_diff <= 2:
+        score += 8
+    elif clean_diff > 5:
+        score -= 15
+
+    if abs(row['room_organization_level_A'] - row['room_organization_level_B']) <= 2:
+        score += 6
+
+    if row['food_preference_A'] == row['food_preference_B']:
+        score += 5
+    if row['fan_or_cooler_preference_A'] == row['fan_or_cooler_preference_B']:
+        score += 5
+    if row['study_noise_preference_A'] == row['study_noise_preference_B']:
+        score += 5
+
+    if row['study_habit_A'] == row['study_habit_B']:
+        score += 5
+    if abs(row['daily_study_hours_A'] - row['daily_study_hours_B']) <= 2:
+        score += 5
+
+    intro_diff = abs(row['introvert_extrovert_score_A'] - row['introvert_extrovert_score_B'])
+    if intro_diff <= 2:
+        score += 6
+    elif intro_diff >= 7:
+        score -= 12
+
+    if row['social_frequency_A'] == row['social_frequency_B']:
+        score += 5
+    if row['language_A'] == row['language_B']:
+        score += 5
+
+    if row['department_A'] == row['department_B']:
+        score += 3
+    if row['career_interest_A'] == row['career_interest_B']:
+        score += 3
+    if row['cult_sports_A'] == row['cult_sports_B']:
+        score += 3
+    if abs(row['room_stay_duration_A'] - row['room_stay_duration_B']) <= 3:
+        score += 3
+
+    if row['smoking_drinking_A'] != row['smoking_drinking_B']:
+        score -= 20
+
+    nt1, nt2 = row['noise_tolerance_A'], row['noise_tolerance_B']
+    np1, np2 = row['study_noise_preference_A'], row['study_noise_preference_B']
+    if (nt1 <= 3 and np2 == 'cafe_noise') or (nt2 <= 3 and np1 == 'cafe_noise'):
+        score -= 15
+
+    return max(0, min(100, score))
+
+def build_training_dataset(csv_path):
+    students_df = pd.read_csv(csv_path)
+    pairs_list = []
+    
+    # 1. Generate sampled pairs for training
+    grouped = students_df.groupby(['gender', 'year_of_study'])
+    for _, group in grouped:
+        ids = group['student_id'].tolist()
+        group_pairs = list(combinations(ids, 2))
+        n_samples = min(3750, len(group_pairs))
+        sampled_pairs = random.sample(group_pairs, n_samples)
+        pairs_list.extend(sampled_pairs)
+
+    pairs_df = pd.DataFrame(pairs_list, columns=['student_id_A', 'student_id_B'])
+
+    # 2. Merge features - suffix student columns upfront to avoid collision
+    students_A = students_df.add_suffix('_A')  # student_id_A, gender_A, ...
+    students_B = students_df.add_suffix('_B')  # student_id_B, gender_B, ...
+
+    merged_1 = pairs_df.merge(students_A, on='student_id_A')
+    pairs_merged = merged_1.merge(students_B, on='student_id_B')
+
+    # 3. Apply your heuristic to create the target variable (y)
+    pairs_merged['target_compatibility_score'] = pairs_merged.apply(calculate_compatibility, axis=1)
+
+    return pairs_merged
